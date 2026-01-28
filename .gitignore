@@ -1,0 +1,18 @@
+# Escludi Dataset e Checkpoint
+**/data/
+**/datasets/
+**/checkpoints/
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/*.tar.gz
+
+# Escludi Logs e Output HPC
+slurm-*.out
+slurm-*.err
+*.log
+
+# Python
+__pycache__/
+.venv/
+.DS_Store
