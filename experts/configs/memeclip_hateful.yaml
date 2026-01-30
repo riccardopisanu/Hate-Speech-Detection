@@ -1,0 +1,45 @@
+# configs/memeclip_hateful.yaml
+
+# Fix globale per ViT-L/14
+unmapped_dim: 1024
+
+data:
+  dataset_name: HatefulMemes
+  root_dir: /home/rpisanu/Hateful/hateful_memes/img/
+  
+  train_file: /home/rpisanu/Hateful/hateful_memes/data/train.jsonl
+  
+  # CAMBIA QUESTI DUE (Tolto "_seen")
+  val_file: /home/rpisanu/Hateful/hateful_memes/data/dev.jsonl
+  test_file: /home/rpisanu/Hateful/hateful_memes/data/test.jsonl  
+  # (Se test.jsonl non esiste, controlla con 'ls' nella cartella data!)
+  
+  label: label
+  num_classes: 2
+  batch_size: 32
+  num_workers: 4
+  image_size: 224
+
+model:
+  name: MemeCLIP
+  clip_variant: ViT-L/14
+  
+  # Architettura (Fix 1024 incluso)
+  unmapped_dim: 1024
+  map_dim: 1024
+  num_mapping_layers: 1
+  num_pre_output_layers: 3
+  drop_probs: [0.1, 0.4, 0.2]
+  ratio: 0.2
+  
+  # Classi semantiche per Hateful Memes
+  class_names: ["non_hateful meme", "hateful meme"]
+
+training:
+  optimizer: AdamW
+  learning_rate: 1.0e-4
+  weight_decay: 1.0e-2
+  max_epochs: 15
+  device: cuda
+  checkpoint_dir: ./checkpoints
+  log_dir: ./logs

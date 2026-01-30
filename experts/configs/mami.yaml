@@ -1,0 +1,59 @@
+# configs/mami.yaml
+
+# -----------------
+# 1. MODELLO
+# -----------------
+model:
+  name: CLIP_MLP   # Aggiornato per matchare la logica del main
+  clip_model: ViT-L/14
+  
+  # PARAMETRI MANCANTI (Aggiunti ora):
+  hidden_dim: 512
+  dropout: 0.5
+
+# -----------------
+# 2. DATI
+# -----------------
+data:
+  dataset_name: MAMI
+  
+  # Percorso della cartella immagini (Verificato dal tuo output precedente)
+  root_dir: /home/rpisanu/MAMI/MAMI_DATASET/TRAINING/
+
+  # Usiamo il file ORIGINALE che 'my_datasets.py' sa gestire (quello col TAB separatore)
+  train_file: /home/rpisanu/MAMI/MAMI_DATASET/TRAINING/training.csv
+  
+  # MAMI non ha un validation set ufficiale separato. 
+  # Per testare che il codice giri, usiamo lo stesso file o il trial set se ce l'hai.
+  val_file: /home/rpisanu/MAMI/MAMI_DATASET/TRAINING/training.csv
+  test_file: /home/rpisanu/MAMI/MAMI_DATASET/TRAINING/training.csv
+
+  label: misogynous
+  num_classes: 2
+
+  batch_size: 32
+  num_workers: 4
+  image_size: 224
+
+# -----------------
+# 3. ADDESTRAMENTO
+# -----------------
+training:
+  optimizer: AdamW
+  learning_rate: 1.0e-5 # LR conservativo per MAMI
+  weight_decay: 1.0e-2
+  max_epochs: 15
+  
+  checkpoint_dir: ./checkpoints/mami
+  log_dir: ./logs/mami
+
+# =========================================================================
+# 4. PARAMETRI LEGACY (Lasciati per compatibilità, ma non usati dal nuovo codice)
+# =========================================================================
+unmapped_dim: 1024
+map_dim: 1024
+num_mapping_layers: 1
+num_pre_output_layers: 1
+drop_probs: [0.1, 0.4, 0.2]
+ratio: 0.2
+scale: 30

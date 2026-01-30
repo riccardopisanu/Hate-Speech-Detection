@@ -1,18 +1,6 @@
-# Escludi Dataset e Checkpoint
-**/data/
-**/datasets/
-**/checkpoints/
-**/*.pt
-**/*.pth
-**/*.ckpt
-**/*.tar.gz
-
-# Escludi Logs e Output HPC
-slurm-*.out
-slurm-*.err
-*.log
-
-# Python
+experts/logs/
+experts/lightning_logs/
+*.out
+*.err
 __pycache__/
-.venv/
-.DS_Store
+*.ckpt
