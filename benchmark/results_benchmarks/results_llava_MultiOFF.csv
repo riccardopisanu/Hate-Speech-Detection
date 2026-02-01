@@ -1,0 +1,741 @@
+id,true_label,pred,response,prompt
+jyxHhiB.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+jyxHhiB.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+jyxHhiB.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+jyxHhiB.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+jyxHhiB.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+we4hhWi.png,1,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+we4hhWi.png,1,1,"The content of the meme is highly offensive and contains hate speech. It is not appropriate for public discourse and is likely intended to be inflammatory and disrespectful. Therefore, I would classify this content as 1, indicating","Classify this content: 1 = Offensive, 0 = Non-offensive."
+we4hhWi.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+we4hhWi.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+we4hhWi.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TpIZoZr.png,1,1,"The meme contains offensive language, which is why it is considered offensive.",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TpIZoZr.png,1,1,"The meme text contains strong language and is likely intended to be humorous or satirical. However, the use of the word ""fuck"" and the phrase ""why the fuck"" can be considered offensive. Therefore, I would classify this","Classify this content: 1 = Offensive, 0 = Non-offensive."
+TpIZoZr.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TpIZoZr.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TpIZoZr.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+h6Pkqkr.png,0,-1,"The meme text is a play on words that is intended to be humorous. It references a political figure and uses a double entendre to create a joke. However, the use of the word ""Johnson"" in this context could be",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+h6Pkqkr.png,0,-1,"The meme text ""Feel The Johnson"" is a play on words, referencing the name of a political candidate and a slang term for a male genitalia. The meme is likely intended to be humorous, but it could","Classify this content: 1 = Offensive, 0 = Non-offensive."
+h6Pkqkr.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+h6Pkqkr.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+h6Pkqkr.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+94anjQG.png,0,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+94anjQG.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+94anjQG.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+94anjQG.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+94anjQG.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+rOvVkF1.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+rOvVkF1.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+rOvVkF1.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+rOvVkF1.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+rOvVkF1.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+odYglAk.png,0,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+odYglAk.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+odYglAk.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+odYglAk.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+odYglAk.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+D40IF3q.png,0,1,"The meme is intended to be humorous, but it can be perceived as offensive due to the political nature of the text and the reference to a specific book by Bill O'Reilly. The meme is making a statement about the political party",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+D40IF3q.png,0,1,The meme text is a political statement that is likely to be considered offensive by some individuals due to its political nature and the use of a book title that may be controversial or polarizing. The classification of this content would depend on the context in which,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+D40IF3q.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+D40IF3q.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+D40IF3q.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CvOg2va.png,0,1,"Answer 1 (Yes). The meme is offensive because it makes a political statement that is not based on fact and is intended to be humorous or satirical. It references a conspiracy theory involving Hillary Clinton, which is not supported by evidence and",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CvOg2va.png,0,1,"The meme text contains a political statement that is likely to be considered offensive by some individuals due to its reference to a political figure. Therefore, I would classify this content as 1 for offensive.","Classify this content: 1 = Offensive, 0 = Non-offensive."
+CvOg2va.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CvOg2va.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CvOg2va.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+4q1tono.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+4q1tono.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+4q1tono.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+4q1tono.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+4q1tono.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+tMzNcad.png,0,1,"The meme text is not inherently offensive. It is a statement that could be interpreted in different ways depending on the context and the reader's perspective. However, if the meme is intended to be humorous or satirical, it could",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+tMzNcad.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+tMzNcad.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+tMzNcad.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+tMzNcad.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CdPJdPnVIAQqX9G.jpg,0,1,"The meme is offensive as it makes light of serious issues, including the water crisis in Flint, Michigan, and the sexual assault allegations against Bill Cosby. It is not appropriate to use such topics for humor, especially in a political context",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CdPJdPnVIAQqX9G.jpg,0,0,"The meme text contains a list of items, which are presented in a humorous and exaggerated manner. The content is intended to be satirical and is not meant to be taken literally. It is not offensive and can be classified as 0","Classify this content: 1 = Offensive, 0 = Non-offensive."
+CdPJdPnVIAQqX9G.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CdPJdPnVIAQqX9G.jpg,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CdPJdPnVIAQqX9G.jpg,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+0N5ZKcH.png,0,1,"The meme contains text that is offensive and inappropriate. It makes a connection between a political party, a religious group, and a mass shooting, which is not only factually incorrect but also insensitive and disrespectful to the victims of",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+0N5ZKcH.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+0N5ZKcH.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+0N5ZKcH.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+0N5ZKcH.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+8Djb33H.png,0,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+8Djb33H.png,0,1,"The meme contains text that is intended to be humorous or satirical, but it also contains language that could be considered offensive. The text refers to political figures and uses strong language to express a negative opinion. The classification of this content would depend","Classify this content: 1 = Offensive, 0 = Non-offensive."
+8Djb33H.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+8Djb33H.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+8Djb33H.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Y85uWnm.png,1,1,"The meme contains text that is offensive and inappropriate. It is not respectful to the individuals depicted in the image, and it makes assumptions about their religious affiliation and political views. The meme also uses inflammatory language and",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Y85uWnm.png,1,0,"The meme text contains a mix of offensive and non-offensive elements. The offensive part is the statement about Donald Trump, which is a form of Islamophobia. The non-offensive part is the description of the U.S","Classify this content: 1 = Offensive, 0 = Non-offensive."
+Y85uWnm.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Y85uWnm.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Y85uWnm.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+12XLnzK.png,1,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+12XLnzK.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+12XLnzK.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+12XLnzK.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+12XLnzK.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+se7MJYj.png,0,1,"The meme is intended to be humorous, but it can be perceived as offensive due to its political nature and the use of a derogatory term. The text suggests that if someone dislikes Trump, they should help him by voting for",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+se7MJYj.png,0,-1,"The meme text contains a political statement and a call to action. It is intended to be humorous and satirical, suggesting that if someone dislikes Trump, they should help him by voting for him in order to change his party from within","Classify this content: 1 = Offensive, 0 = Non-offensive."
+se7MJYj.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+se7MJYj.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+se7MJYj.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+h92g9FL.png,0,1,The meme text contains language that is considered offensive and disrespectful towards women. It is not appropriate to use such language in a public or professional setting.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+h92g9FL.png,0,1,"The content in the meme text is classified as 1 for offensive. The term ""vagina voter"" is considered derogatory and sexist, as it implies that women are only motivated to vote based on their reproductive org","Classify this content: 1 = Offensive, 0 = Non-offensive."
+h92g9FL.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+h92g9FL.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+h92g9FL.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+4j4jraI.png,1,-1,"The meme contains a list of controversial and divisive policies and actions, which are often associated with the political views of Hillary Clinton. The text is presented in a way that suggests that if someone supports these policies, they should ""own them."" The",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+4j4jraI.png,1,1,"The meme text contains a list of controversial and politically charged topics, which are often associated with the political views of Hillary Clinton. The content is highly polarizing and can be considered offensive due to the nature of the topics listed, which are sensitive","Classify this content: 1 = Offensive, 0 = Non-offensive."
+4j4jraI.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+4j4jraI.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+4j4jraI.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+DDWmGxP.png,1,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+DDWmGxP.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+DDWmGxP.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+DDWmGxP.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+DDWmGxP.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+qfYlr30.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+qfYlr30.png,1,1,"The content of the meme includes political statements and opinions, which can be subjective and may be perceived differently by different individuals. However, the meme does not contain any overtly offensive language or imagery. It is a political meme","Classify this content: 1 = Offensive, 0 = Non-offensive."
+qfYlr30.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+qfYlr30.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+qfYlr30.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+VoNgxAD.png,0,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+VoNgxAD.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+VoNgxAD.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+VoNgxAD.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+VoNgxAD.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+aKBYqSs.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+aKBYqSs.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+aKBYqSs.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+aKBYqSs.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+aKBYqSs.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+MQqsZvW.png,1,1,"Answer 1 (Yes). The meme is offensive because it makes a sweeping and inaccurate statement about libertarianism and capitalism, attributing the deaths of millions of people to these ideologies without providing any evidence or context. It also",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+MQqsZvW.png,1,1,"The meme text in the image contains a statement that is critical of capitalism and its impact on human suffering. The content of the meme is likely to be classified as 1 for offensive, as it contains a strong political statement that may be seen","Classify this content: 1 = Offensive, 0 = Non-offensive."
+MQqsZvW.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+MQqsZvW.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+MQqsZvW.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+s1qivuu.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+s1qivuu.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+s1qivuu.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+s1qivuu.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+s1qivuu.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+xlV0M7Q.png,1,-1,"The meme text appears to be a satirical or humorous take on a situation, possibly referencing a political or business figure. It contains a mix of text and symbols, and it seems to be making a joke about the influence of a particular",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+xlV0M7Q.png,1,1,"The content of the text is highly offensive and contains numerous inappropriate and inflammatory statements. It is not suitable for public discourse and is likely intended to be humorous or satirical, but it is not appropriate for a professional or","Classify this content: 1 = Offensive, 0 = Non-offensive."
+xlV0M7Q.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+xlV0M7Q.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+xlV0M7Q.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+BkZ356ICIAAEHId.jpg,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+BkZ356ICIAAEHId.jpg,1,1,The meme text contains offensive language and is classified as 1 for offensive content.,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+BkZ356ICIAAEHId.jpg,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+BkZ356ICIAAEHId.jpg,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+BkZ356ICIAAEHId.jpg,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+7P6yB0D.png,0,1,"Answer 1 (Yes). The meme contains offensive language and is likely intended to be humorous, but it uses derogatory terms and stereotypes that are not respectful or appropriate.",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+7P6yB0D.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+7P6yB0D.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+7P6yB0D.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+7P6yB0D.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+gZWRvf8.png,1,1,"The meme appears to be a screenshot from a social media platform, and it contains text that seems to be making a joke or commentary about a political event. The text is intended to be humorous, but whether it is offensive depends on",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+gZWRvf8.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+gZWRvf8.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+gZWRvf8.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+gZWRvf8.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+JYTlRZK.png,0,-1,"The meme you've shown features a man riding a unicycle while holding a ball, with the text ""HERE COME JOHNSON 2016 FACEBOOK REASONABLE PEOPL FOR GARY",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+JYTlRZK.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+JYTlRZK.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+JYTlRZK.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+JYTlRZK.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+88B7ag2.png,0,0,"The meme text ""I'VE BEEN FEELIN THE BERN"" is a reference to a song by the artist Bern, which is known for its catchy and repetitive chorus. The meme is using this phrase to humor",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+88B7ag2.png,0,0,"The meme text ""I'VE BEEN FEELIN THE BERN"" is a reference to a song by the artist Bern, which is known for its catchy and repetitive chorus. The meme is using this phrase to humor","Classify this content: 1 = Offensive, 0 = Non-offensive."
+88B7ag2.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+88B7ag2.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+88B7ag2.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+qHkGmLt.png,1,1,"The meme you've provided appears to be a screenshot from a website that is offering free access to Pornhub Premium. The content of the meme is offensive and inappropriate, as it features a manipulated image of two",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+qHkGmLt.png,1,1,"The content in the image appears to be a screenshot of a webpage with a thumbnail of a video that is likely intended to be provocative or sensational. The text in the meme text classifies the content as ""1 = Off","Classify this content: 1 = Offensive, 0 = Non-offensive."
+qHkGmLt.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+qHkGmLt.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+qHkGmLt.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+taecqiR.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+taecqiR.png,1,-1,"The content you've provided appears to be a comic strip with a political theme. The comic strip includes images of former President George W. Bush and other characters, with text that seems to be making a joke or commentary about Bush's political","Classify this content: 1 = Offensive, 0 = Non-offensive."
+taecqiR.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+taecqiR.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+taecqiR.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+meTteYg.png,0,1,"The meme text you provided is offensive and disrespectful. It makes light of serious issues, including the struggles of individuals with disabilities and the emotional burden of caregivers. It is important to be sensitive and considerate when discussing or making",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+meTteYg.png,0,0,"The content of the meme is a piece of fiction that uses the characters from the television show ""Sesame Street"" to create a narrative that is not based on the actual characters or their personalities. The meme text is a work of","Classify this content: 1 = Offensive, 0 = Non-offensive."
+meTteYg.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+meTteYg.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+meTteYg.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+R2jWn36.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+R2jWn36.png,0,1,"The meme text contains offensive content, as it makes false and defamatory claims about Hillary Clinton. The text suggests that Clinton was ""purged"" and ""executed"" in 2016, which is not true. Additionally,","Classify this content: 1 = Offensive, 0 = Non-offensive."
+R2jWn36.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+R2jWn36.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+R2jWn36.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TL8WSKV.png,0,1,The meme contains text that is highly offensive and political in nature. It is not appropriate to share or promote such content.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TL8WSKV.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+TL8WSKV.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TL8WSKV.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TL8WSKV.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+ezoih5p.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+ezoih5p.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+ezoih5p.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+ezoih5p.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+ezoih5p.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+so4V8X7.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+so4V8X7.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+so4V8X7.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+so4V8X7.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+so4V8X7.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+rZGXxM4.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+rZGXxM4.png,1,1,"The meme text contains a political statement that is likely to be considered offensive by some people. It is making a critical commentary about Bernie Sanders and his supporters, suggesting that they are out of touch with the desires of his voting base. The","Classify this content: 1 = Offensive, 0 = Non-offensive."
+rZGXxM4.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+rZGXxM4.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+rZGXxM4.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+873SgEx.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+873SgEx.png,0,0,The content of the meme is a humorous take on how to get a post to the front page of Reddit. It is a non-offensive meme and is classified as 0.,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+873SgEx.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+873SgEx.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+873SgEx.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+DAJu7lB.png,0,-1,"The meme appears to be a playful comparison between two political figures, Bernie Sanders and Hillary Clinton, in the context of their preferences for chicken wings. It includes a humorous description of Wingstop as ""the spot"" and references to specific",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+DAJu7lB.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+DAJu7lB.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+DAJu7lB.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+DAJu7lB.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CsdehGlWgAAv2HI.jpg,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CsdehGlWgAAv2HI.jpg,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CsdehGlWgAAv2HI.jpg,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CsdehGlWgAAv2HI.jpg,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CsdehGlWgAAv2HI.jpg,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+7rNwjnv.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+7rNwjnv.png,0,0,"The content in the image appears to be a screenshot of a news broadcast. The classification of this content as offensive or non-offensive would depend on the context and the specific content being displayed. However, based on the visible text, it seems","Classify this content: 1 = Offensive, 0 = Non-offensive."
+7rNwjnv.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+7rNwjnv.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+7rNwjnv.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TOuTChz.png,0,-1,"The meme appears to be a political cartoon that uses satire to comment on a situation. It shows a conversation between two individuals, one of whom is a caricature of former President Bill Clinton, and the other is a caricature",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TOuTChz.png,0,1,"The content of the meme appears to be a political cartoon that uses satire to comment on a situation involving former President Bill Clinton and Attorney General Loretta Lynch. The meme is classifying the content as ""Offensive,"" which","Classify this content: 1 = Offensive, 0 = Non-offensive."
+TOuTChz.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TOuTChz.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TOuTChz.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+zPT9dFf.png,0,1,"The meme is intended to be humorous, but it is offensive because it suggests that Hillary Clinton's nomination was achieved through manipulation or fraud, which is a baseless and disrespectful accusation. It is not appropriate to spread",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+zPT9dFf.png,0,0,"The meme text ""HILLARY CLINCHES NOMINATION VOTE FOR BERNIE SANDERSANYNAY inngflip com "" is a political statement that is likely to be considered non-offensive","Classify this content: 1 = Offensive, 0 = Non-offensive."
+zPT9dFf.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+zPT9dFf.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+zPT9dFf.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+9HHSnfe.png,1,0,"The meme appears to be a humorous take on political endorsements, suggesting that the person expressing love for Gary Johnson might not actually be a fan but is simply considering him as a candidate. The meme uses a format that is commonly used",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+9HHSnfe.png,1,0,"The meme text is a play on words, suggesting that the person expressing love for Gary Johnson is not genuinely in love with him but is simply considering him as a political candidate. The meme is intended to be humorous and is not meant","Classify this content: 1 = Offensive, 0 = Non-offensive."
+9HHSnfe.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+9HHSnfe.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+9HHSnfe.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+lJVnWF2.png,1,1,The meme text is offensive as it contains a derogatory and disrespectful reference to a former U.S. President. It is important to be mindful of the language we use and the impact it can have on others.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+lJVnWF2.png,1,1,"The meme text is a political statement that is likely to be considered offensive by some due to its reference to a political figure. Therefore, I would classify this content as 1 for offensive.","Classify this content: 1 = Offensive, 0 = Non-offensive."
+lJVnWF2.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+lJVnWF2.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+lJVnWF2.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+xLXvr9t.png,0,-1,"The meme appears to be a political statement, and it is using a phrase that is often associated with a tragic event in American history. The phrase ""Shhhhh , it will all be over soon"" is a reference to the mass shooting at",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+xLXvr9t.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+xLXvr9t.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+xLXvr9t.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+xLXvr9t.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TFRcH6Q.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TFRcH6Q.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+TFRcH6Q.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TFRcH6Q.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TFRcH6Q.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+v2dOGRp.png,1,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+v2dOGRp.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+v2dOGRp.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+v2dOGRp.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+v2dOGRp.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+VlcI2AV.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+VlcI2AV.png,0,-1,"The content in the image appears to be a humorous meme featuring a baby dressed in a Bernie Sanders campaign outfit, complete with a wig and glasses, and an older man who seems to be Bernie Sanders himself. The meme text","Classify this content: 1 = Offensive, 0 = Non-offensive."
+VlcI2AV.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+VlcI2AV.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+VlcI2AV.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+DLr1Uo7.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+DLr1Uo7.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+DLr1Uo7.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+DLr1Uo7.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+DLr1Uo7.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+ZwFfyVJ.png,1,1,"The meme appears to be a political statement, and whether it is offensive can depend on the context and the individual's political views. Some people might find it offensive due to the political nature of the statement, while others might not. It is",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+ZwFfyVJ.png,1,-1,The meme text contains a political statement and a reference to a person. The text is intended to be humorous by contrasting the speaker's past political affiliation with their current stance. The classification of this content would depend on the context in,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+ZwFfyVJ.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+ZwFfyVJ.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+ZwFfyVJ.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+27S1feu.png,0,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+27S1feu.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+27S1feu.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+27S1feu.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+27S1feu.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+wgVTz9g.png,0,1,The image you've provided appears to be a political cartoon rather than a meme. Political cartoons often use exaggerated and sometimes offensive imagery to convey a message or critique a political figure. The cartoon in question seems to be making,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+wgVTz9g.png,0,1,"The image you've provided appears to be a political cartoon. Political cartoons often use exaggerated and sometimes offensive imagery to convey a message or critique a political figure. The text ""UNSCATHED PENCE"" suggests that the cart","Classify this content: 1 = Offensive, 0 = Non-offensive."
+wgVTz9g.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+wgVTz9g.png,0,1,"The image you've provided appears to be a political cartoon rather than a meme. Political cartoons often use exaggerated and sometimes offensive imagery to convey a message or critique a political figure. The text ""UNSCATHED PENCE","Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+wgVTz9g.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+BWopGu8.png,0,1,"The meme contains a statement that is likely to be perceived as offensive. It is making a joke about the youth vote in Iowa, suggesting that young Bernie Sanders supporters have a responsibility to vote, but also implying that they did not do so",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+BWopGu8.png,0,1,"The content of the meme is a political statement, and it contains strong language and a derogatory term. Based on the content, I would classify it as 1 for offensive.","Classify this content: 1 = Offensive, 0 = Non-offensive."
+BWopGu8.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+BWopGu8.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+BWopGu8.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CjZPiloXAAA1v_W.jpg,0,-1,"The meme text ""Hey Girl, lemme holla at u about Bernie"" is a play on the popular ""Hey Girl"" meme format, which is often used to express attraction or admiration. The phrase ""lemme h",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CjZPiloXAAA1v_W.jpg,0,-1,"The meme text ""Hey Girl, lemme holla at u about Bernie"" is a play on the phrase ""Hey Girl, let me holla at you,"" which is often used in a flirtatious or seduct","Classify this content: 1 = Offensive, 0 = Non-offensive."
+CjZPiloXAAA1v_W.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CjZPiloXAAA1v_W.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CjZPiloXAAA1v_W.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+B_LgxAvVIAA_lu8.jpg,1,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+B_LgxAvVIAA_lu8.jpg,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+B_LgxAvVIAA_lu8.jpg,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+B_LgxAvVIAA_lu8.jpg,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+B_LgxAvVIAA_lu8.jpg,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Cc8PZCkXIAAmG0f.jpg,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+gdHUw8d.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+gdHUw8d.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+gdHUw8d.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+gdHUw8d.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+gdHUw8d.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+4ZKsrX3.png,1,-1,"The meme you've provided appears to be a humorous take on a political figure, using a visual pun with a donut. The text suggests that the donut is being ""boiled"" by the figure, which is a play on",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+4ZKsrX3.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+4ZKsrX3.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+4ZKsrX3.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+4ZKsrX3.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+BXs0Wy8.png,1,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+BXs0Wy8.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+BXs0Wy8.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+BXs0Wy8.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+BXs0Wy8.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+4jYyIBw.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+4jYyIBw.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+4jYyIBw.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+4jYyIBw.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+4jYyIBw.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+JbWv3sM.png,1,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+JbWv3sM.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+JbWv3sM.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+JbWv3sM.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+JbWv3sM.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+1BeUIMs.png,1,1,"The meme contains text that is offensive and derogatory. It uses racial slurs and stereotypes, which are inappropriate and disrespectful. Therefore, the answer is 1 (Yes).",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+1BeUIMs.png,1,1,"The meme text contains a statement that is likely intended to be offensive or inflammatory. It references Hillary Clinton and makes a comparison between her and liberals, suggesting that they are racist. The text also includes a racial slur. Therefore","Classify this content: 1 = Offensive, 0 = Non-offensive."
+1BeUIMs.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+1BeUIMs.png,1,1,The meme contains text that is offensive and derogatory towards certain groups of people. It is not safe.,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+1BeUIMs.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+ruSN6zI.png,1,1,Answer 1 (Yes). The meme contains offensive language and content that is inappropriate and disrespectful. It is not suitable for public discourse and is not a representation of respectful or civil political discussion.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+ruSN6zI.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+ruSN6zI.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+ruSN6zI.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+ruSN6zI.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+k6x2h2d.png,1,1,"The meme appears to be a political statement with a humorous intent, but it could be perceived as offensive due to the sensitive nature of the topic. The meme references a controversial event in Honduras and uses it as a political point against",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+k6x2h2d.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+k6x2h2d.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+k6x2h2d.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+k6x2h2d.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+WSy7NGq.png,0,1,"The meme you've provided is indeed offensive. It uses a derogatory term to describe the appearance of a public figure, which is not appropriate or respectful. It's important to be mindful of the language we use and the",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+WSy7NGq.png,0,1,"The content of the meme is intended to be humorous and satirical, but it contains language and imagery that some people might find offensive. The meme features a photo of a person with a distorted facial expression, which is meant to","Classify this content: 1 = Offensive, 0 = Non-offensive."
+WSy7NGq.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+WSy7NGq.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+WSy7NGq.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+7lqO9Qr.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+7lqO9Qr.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+7lqO9Qr.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+7lqO9Qr.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+7lqO9Qr.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+T9pQAFP.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+T9pQAFP.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+T9pQAFP.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+T9pQAFP.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+T9pQAFP.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CjRhYGU.png,0,1,The meme text is offensive because it is making a political statement that is likely to be divisive and could be perceived as disrespectful to those who supported Hillary Clinton for president. It is important to be mindful of the potential for such statements,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CjRhYGU.png,0,1,The meme text is a political statement that expresses a preference for Bernie Sanders over Hillary Clinton. It is a form of political commentary and is likely to be considered offensive by those who support Hillary Clinton or who do not agree with the political,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CjRhYGU.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CjRhYGU.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CjRhYGU.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+5NWPOQp.png,0,1,"The meme you've provided appears to be a political cartoon rather than a meme. Political cartoons often use exaggerated and sometimes offensive imagery to convey a message. The text ""TRIBUNE BeRNie Fee",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+5NWPOQp.png,0,-1,"The content of the meme appears to be a political cartoon, which is a form of satire and commentary on current events. The meme text ""TRIBUNE BeRNie FeeLS THe BURN "" is","Classify this content: 1 = Offensive, 0 = Non-offensive."
+5NWPOQp.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+5NWPOQp.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+5NWPOQp.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+FYijK60.png,0,1,"The meme appears to be making a political statement, which can be considered offensive depending on the context and the reader's perspective. It references a specific political issue and includes a personal attack on an individual. The use of the term ""friv",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+FYijK60.png,0,-1,"The content in the image appears to be a screenshot of a social media post with a political and religious tone. The text of the post discusses the actions of a Kentucky official, Kim Davis, who refused to issue marriage licenses in accordance with her","Classify this content: 1 = Offensive, 0 = Non-offensive."
+FYijK60.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+FYijK60.png,0,1,0 for safe. The meme contains offensive language and is likely to be considered inappropriate by many people.,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+FYijK60.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CcsU2lQUEAEoeuW.jpg,0,0,"The meme appears to be a political comparison between two individuals, Bernie Sanders and Hillary Clinton, with the question ""Favorite DLR Conner Tanner"" as the issue being compared. The term ""DLR"" is not commonly understood and",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CcsU2lQUEAEoeuW.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CcsU2lQUEAEoeuW.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+tcXzxyV.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+tcXzxyV.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+tcXzxyV.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+tcXzxyV.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+tcXzxyV.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+u9FeEuE.png,1,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+u9FeEuE.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+u9FeEuE.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+u9FeEuE.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+u9FeEuE.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+pgVlfQb.png,0,1,"The meme appears to be a humorous take on the idea that Gary Johnson, a former presidential candidate, could benefit from increased exposure. It is not inherently offensive, but it may be seen as in poor taste by some due to the political",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+pgVlfQb.png,0,0,The meme text is a joke and is intended to be humorous. It is not offensive. The content is classified as 0.,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+pgVlfQb.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+pgVlfQb.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+pgVlfQb.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+WvnX54P.png,0,1,"The meme appears to be a political statement, and whether it is offensive can depend on the context and the individual's political views. If the meme is intended to be humorous or satirical, it might be seen as offensive by some",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+WvnX54P.png,0,0,"The content of the image appears to be a political campaign advertisement. The text ""BEFORE HILLARY HITSINOURHANDs JILL STEIN FOR PRESIDENT"" is a statement that seems to be expressing a political opinion","Classify this content: 1 = Offensive, 0 = Non-offensive."
+WvnX54P.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+WvnX54P.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+WvnX54P.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+x76JHsa.png,1,1,"The meme is offensive as it uses derogatory language and political stereotypes to make a comparison between two public figures. It is important to avoid using such language and to promote respectful discourse, especially when discussing political figures or any other",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+x76JHsa.png,1,1,The meme text is a political statement that is likely to be considered offensive by some due to its use of derogatory language and the nature of the political figures mentioned. It is important to approach such content with sensitivity to the individuals involved and the,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+x76JHsa.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+x76JHsa.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+x76JHsa.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+yHg7DkU.png,1,1,"The meme you've provided appears to be a political statement with a fictional narrative. It contains offensive language and imagery, including references to death and the use of a skeleton as a symbol. The content is not appropriate for all audiences",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+yHg7DkU.png,1,1,"The content you've provided appears to be a political meme or statement, and it contains offensive language and imagery. The text is highly critical of a political figure and includes threats and violent imagery. The classification of this content would be","Classify this content: 1 = Offensive, 0 = Non-offensive."
+yHg7DkU.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+yHg7DkU.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+yHg7DkU.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Hf65xSJ.png,1,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Hf65xSJ.png,1,1,The meme text is offensive and contains a stereotype. It is not appropriate to make assumptions about someone's political beliefs and to associate them with racism. This kind of content is not respectful and can be hurtful to individuals who may be,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Hf65xSJ.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Hf65xSJ.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Hf65xSJ.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+t4xWpee.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+t4xWpee.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+t4xWpee.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+t4xWpee.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+t4xWpee.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+6r16i0p.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+6r16i0p.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+6r16i0p.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+6r16i0p.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+6r16i0p.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+QNB8H2s.png,0,1,"The meme text is indeed offensive. It refers to a historical figure who was a member of the Supreme Court at a time when the court upheld the ""separate but equal"" doctrine in the case of Plessy v. Fergus",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+QNB8H2s.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+QNB8H2s.png,0,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+QNB8H2s.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+QNB8H2s.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+5W8eGmw.png,1,1,The meme text is offensive as it is a political statement that is disrespectful and inappropriate. It is not a suitable way to express opinions or engage in political discourse.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+5W8eGmw.png,1,1,"The meme text ""George Bush do ya thing TRUMP "" is a political statement that can be classified as offensive due to its nature as a political attack on a former president. The text is intended to be humorous or critical, but","Classify this content: 1 = Offensive, 0 = Non-offensive."
+5W8eGmw.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+5W8eGmw.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+5W8eGmw.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Nyo6x2Y.png,1,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Nyo6x2Y.png,1,1,"The content of the meme text is highly offensive and disrespectful. It contains strong language and personal attacks, which are not appropriate for public discourse. Therefore, I would classify this content as 1 for being offensive.","Classify this content: 1 = Offensive, 0 = Non-offensive."
+Nyo6x2Y.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Nyo6x2Y.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Nyo6x2Y.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+5hN4XOF.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+5hN4XOF.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+5hN4XOF.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+5hN4XOF.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+5hN4XOF.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+nEE5sjy.png,0,0,"The meme you've shown is a humorous play on words, combining the names of the president of the United States, a popular animated character, and a type of vehicle. It is intended to be a joke and is not meant to be",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+nEE5sjy.png,0,-1,"The content in the image is a meme that combines elements from different sources to create a humorous effect. The meme features a man with a beard and long hair, who appears to be in a relaxed pose with his arm resting on a","Classify this content: 1 = Offensive, 0 = Non-offensive."
+nEE5sjy.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+nEE5sjy.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+nEE5sjy.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+OH0Nuxb.png,1,1,"The meme appears to be a political statement, and whether it is offensive depends on the context and the viewer's perspective. The text includes strong language and political commentary, which may be considered offensive by some. It is important to consider",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+OH0Nuxb.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+OH0Nuxb.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+OH0Nuxb.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+OH0Nuxb.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+hoApJnq.png,1,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+hoApJnq.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+hoApJnq.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+hoApJnq.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+hoApJnq.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+M6wyDw8.png,0,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+M6wyDw8.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+M6wyDw8.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+M6wyDw8.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+M6wyDw8.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+rklsz23.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+rklsz23.png,1,0,"The content in the image appears to be a meme that is making a political statement. The meme text is ""The fuck Bernie Sanders ' starter pack THE SCIENCE OF ECONOMICS THE ECONOMIC TEACHING","Classify this content: 1 = Offensive, 0 = Non-offensive."
+rklsz23.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+rklsz23.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+rklsz23.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+43LJZG9.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+43LJZG9.png,0,-1,"The content of the meme appears to be a humorous take on the challenges of fixing the internet, with a reference to the 2000 U.S. presidential election and the political figure Jill Stein. The meme includes a","Classify this content: 1 = Offensive, 0 = Non-offensive."
+43LJZG9.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+43LJZG9.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+43LJZG9.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+mHAg22Y.png,1,1,The meme is offensive because it makes a direct comparison between a wall inside a Nazi gas chamber and a political stance on gun control. This comparison is inappropriate and disrespectful to the victims of the Holocaust.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+mHAg22Y.png,1,1,"The content of the image is highly offensive and inappropriate. It is not suitable for any audience and is intended to be inflammatory and provocative. The text is comparing a wall inside a Nazi gas chamber to a political issue, which","Classify this content: 1 = Offensive, 0 = Non-offensive."
+mHAg22Y.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+mHAg22Y.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+mHAg22Y.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+pEPz8iF.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+pEPz8iF.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+pEPz8iF.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+pEPz8iF.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+pEPz8iF.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+nnEBoVw.png,0,1,Answer 1 (Yes). The meme contains offensive language and is making a derogatory statement about the opinions of others. It is not respectful or considerate of differing viewpoints.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+nnEBoVw.png,0,1,The content of the meme text is offensive and can be classified as 1. The meme text contains derogatory language and makes fun of people's opinions and their use of social media platforms. It is important to be respectful and,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+nnEBoVw.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+nnEBoVw.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+nnEBoVw.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CaqKlOXWIAAvy8L.jpg,0,-1,"The meme appears to be a political comparison between Bernie Sanders and Hillary Clinton, using a humorous format to represent their views on the Super Bowl halftime show. The text suggests that Bernie Sanders would prefer a more diverse and inclusive line",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CaqKlOXWIAAvy8L.jpg,0,-1,"The meme text is a political statement comparing two candidates, Bernie and Hillary, in the context of the Super Bowl halftime show. It suggests that one candidate, Bernie, wishes for a specific halftime show performance by Beyoncé,","Classify this content: 1 = Offensive, 0 = Non-offensive."
+CaqKlOXWIAAvy8L.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CaqKlOXWIAAvy8L.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+hLMgzsp.png,1,1,The meme text is offensive and inappropriate. It is not suitable for sharing or displaying in a public setting.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+hLMgzsp.png,1,1,"The content of the meme is a play on words, combining the name of a puffer fish with the name of a political figure. The meme is intended to be humorous and is not intended to be offensive. It is a form of","Classify this content: 1 = Offensive, 0 = Non-offensive."
+hLMgzsp.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+hLMgzsp.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+hLMgzsp.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+zvdzU3y.png,0,1,"The meme appears to be a political satire, comparing two political figures, Bernie Sanders and Hillary Clinton, to robots. The text is meant to be humorous, but it is also offensive. The phrase ""BRING IT ON HA",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+zvdzU3y.png,0,0,"The meme text is a political joke comparing the two candidates, Bernie Sanders and Hillary Clinton, to robots. The joke is that Bernie Sanders is compared to a Roomba vacuum cleaner, which is known for its ability to navigate and","Classify this content: 1 = Offensive, 0 = Non-offensive."
+zvdzU3y.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+zvdzU3y.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+zvdzU3y.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CbYe-4SW8AAmvbJ.jpg,0,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CbYe-4SW8AAmvbJ.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CbYe-4SW8AAmvbJ.jpg,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CbYe-4SW8AAmvbJ.jpg,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+NwQNeBd.png,1,1,"The meme contains offensive and inflammatory language, which is intended to be provocative and offensive. It is not appropriate for public discourse and can be seen as promoting intolerance and discrimination.",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+NwQNeBd.png,1,1,"The content of the meme is highly offensive and discriminatory. It expresses intolerance and prejudice towards women, LGBTQ+ individuals, and Islam. The meme is classifiable as 1, as it promotes hate speech","Classify this content: 1 = Offensive, 0 = Non-offensive."
+NwQNeBd.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+NwQNeBd.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+NwQNeBd.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+mZvaiMI.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+mZvaiMI.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+mZvaiMI.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+mZvaiMI.png,0,1,"The meme is offensive. It uses a political poll format to make a joke about a tragic event involving Harambe, a gorilla who was killed at a zoo. The meme is not safe and can be hurtful to those","Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+mZvaiMI.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Ktvna1u.png,0,1,Answer 1 (Yes). The meme contains offensive language and is likely intended to be disrespectful or mocking towards a specific individual. It is important to be mindful of the language we use and the impact it can have on others.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Ktvna1u.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Ktvna1u.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Ktvna1u.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Ktvna1u.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+bnQlLeN.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+bnQlLeN.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+bnQlLeN.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+bnQlLeN.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+bnQlLeN.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CfU-_jqW4AAmTBw.jpg,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CfU-_jqW4AAmTBw.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CfU-_jqW4AAmTBw.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CfU-_jqW4AAmTBw.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CfU-_jqW4AAmTBw.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+JT26Var.png,0,-1,"The meme you've provided appears to be a humorous take on the appearance of former President Bill Clinton, comparing him to a character from the animated television series ""SpongeBob SquarePants."" The meme uses a visual pun",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+JT26Var.png,0,-1,"The meme text is a play on words, combining ""Bill Clinton"" with ""case of the suds,"" which is a phrase often used to describe a person who is drunk or intoxicated. The image on the right is a character from","Classify this content: 1 = Offensive, 0 = Non-offensive."
+JT26Var.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+JT26Var.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+JT26Var.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+LW5TKwe.png,0,0,"The meme appears to be a screenshot of a television broadcast with a caption added. The caption is a humorous take on the news being reported, suggesting that the person who posted the meme is not interested in going out due to",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+LW5TKwe.png,0,0,"The content of the meme text is a political statement, and it is not possible to classify it as offensive or non-offensive without considering the context and the intended message. The text appears to be a commentary on a news event,","Classify this content: 1 = Offensive, 0 = Non-offensive."
+LW5TKwe.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+LW5TKwe.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+LW5TKwe.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+krkcbjy.png,0,1,1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+krkcbjy.png,0,0,The content of the meme text is non-offensive. It is a humorous personal anecdote about an interaction with a taxi driver.,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+krkcbjy.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+krkcbjy.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+krkcbjy.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+AY91zJl.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+AY91zJl.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+AY91zJl.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+AY91zJl.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+AY91zJl.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+8WsB12c.png,0,1,"The meme is offensive as it contains a list of allegations and criticisms against Hillary Clinton, some of which are not supported by factual evidence. The meme is designed to be inflammatory and is likely intended to be partisan",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+8WsB12c.png,0,-1,"The content of the meme is highly politically charged and contains a mix of factual statements and opinions. It is designed to compare the scandals associated with Hillary Clinton and Donald Trump, and the meme text is intended to be critical of","Classify this content: 1 = Offensive, 0 = Non-offensive."
+8WsB12c.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+8WsB12c.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+8WsB12c.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+5kSMRv3.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+5kSMRv3.png,0,0,The content in the meme text is non-offensive. It is a political statement discussing the symbolization of abstract social forces and the use of historical figures in political movements. The text does not contain any offensive language or imagery.,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+5kSMRv3.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+5kSMRv3.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+5kSMRv3.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+209BoJK.png,0,1,"The meme appears to be offensive due to the inclusion of a personal tragedy, the death of Selena, as a political comparison point. It is not appropriate to use a tragic event as a means to make a political statement.",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+209BoJK.png,0,0,The meme text contains offensive language and is not appropriate for all audiences. It is not non-offensive and would be classified as 1 for offensive content.,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+209BoJK.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+209BoJK.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+209BoJK.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CfUTJmj.png,0,0,"The meme appears to be a humorous take on the political views of Bernie Sanders supporters, suggesting that they may not have a deep understanding of economics and history. It is important to note that humor is subjective, and what one person finds",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CfUTJmj.png,0,1,"The meme text is a humorous take on the political views of Bernie Sanders supporters, suggesting that they may not have a deep understanding of economics and history. The meme is intended to be lighthearted and is not meant to be offensive","Classify this content: 1 = Offensive, 0 = Non-offensive."
+CfUTJmj.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CfUTJmj.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CfUTJmj.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+53U5Bca.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+53U5Bca.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+53U5Bca.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+53U5Bca.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+53U5Bca.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+pyCWWr7.png,0,-1,"The meme appears to be a screenshot of a tweet by Paul Ryan, with a poll attached to it. The poll is asking for support for President Gary Johnson, Harambe, and Jill Stein, with the percentages indicating that",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+pyCWWr7.png,0,-1,"The content of the tweet is a political poll conducted by Public Policy Polling. The poll results indicate that 6% of respondents support Gary Johnson for president, 5% support Harambe, and 2% support Jill Stein","Classify this content: 1 = Offensive, 0 = Non-offensive."
+pyCWWr7.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+pyCWWr7.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+pyCWWr7.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+b3IhU9Z.png,0,1,"The meme contains offensive language and imagery, which is not appropriate for all audiences. It is important to be mindful of the content we share and the impact it may have on others.",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+b3IhU9Z.png,0,-1,"The content in the image appears to be a screenshot of a conversation from a platform that resembles Reddit, with a meme image and text snippets. The meme image shows a ""Bernie Sanders"" glow stick,","Classify this content: 1 = Offensive, 0 = Non-offensive."
+b3IhU9Z.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+b3IhU9Z.png,0,1,"The meme contains a mix of offensive and safe content. The offensive part is the use of the term ""fag"" in a derogatory manner, which is considered homophobic slang. The safe part is the rest of the","Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+b3IhU9Z.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Lsjt4TJ.png,0,-1,The meme text is a satirical comparison between a hypothetical situation of a person exaggerating the success of a concert and the actual claims made by former US President Donald Trump. The meme text is intended to be humorous by exagger,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Lsjt4TJ.png,0,0,"The content of the meme text is a critique of a person's behavior, comparing it to the actions of former U.S. President Donald Trump. The text is non-offensive and is intended to be satirical or critical, rather","Classify this content: 1 = Offensive, 0 = Non-offensive."
+Lsjt4TJ.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Lsjt4TJ.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Lsjt4TJ.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+xJiXDnY.png,1,1,"The meme is intended to be humorous, but it is offensive because it uses a political figure in a mocking and disrespectful manner. The text suggests that the person depicted is being awarded an Oscar for their performance in the GOP President",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+xJiXDnY.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+xJiXDnY.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+xJiXDnY.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+xJiXDnY.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+ykGRBWn.png,1,1,"The meme is offensive. It is inappropriate for the president of the United States to make such a statement, as it is not respectful or appropriate for public discourse.",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+ykGRBWn.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+ykGRBWn.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+ykGRBWn.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+ykGRBWn.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+LAPqPzX.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+LAPqPzX.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+LAPqPzX.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+LAPqPzX.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+LAPqPzX.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+yiS7xVy.png,1,-1,The meme appears to be a political cartoon that references the 2016 U.S. presidential election and the controversy surrounding Hillary Clinton's use of a private email server while she was Secretary of State. The text in the mem,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+yiS7xVy.png,1,0,The content of the meme is a political cartoon that appears to be making a statement about the use of an unsecured email server by Hillary Clinton during her tenure as Secretary of State. The meme is classifying this content as non,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+yiS7xVy.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+yiS7xVy.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+yiS7xVy.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+WDUgdRk.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+WDUgdRk.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+WDUgdRk.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+WDUgdRk.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+WDUgdRk.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+iOyEYMl.png,0,0,"The meme contains a political statement that is likely intended to be humorous or satirical. However, it is important to note that humor and satire can be subjective and may not be appreciated by everyone. Some people may find the meme",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+iOyEYMl.png,0,0,"The content of the meme is a political statement that appears to be making a critical commentary about Bernie Sanders and his policies. The text of the meme is a quote attributed to Bernie Sanders, suggesting that he is now free to vacation","Classify this content: 1 = Offensive, 0 = Non-offensive."
+iOyEYMl.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+iOyEYMl.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+iOyEYMl.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+bspb4sM.png,1,1,"The meme contains a political statement that is likely to be offensive to some people. It is making a direct accusation against a political party and its members, which can be seen as a form of political attack. The use of capital letters and the",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+bspb4sM.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+bspb4sM.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+bspb4sM.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+bspb4sM.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Wwe2NdZ.png,1,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Wwe2NdZ.png,1,1,"The content of the meme is a political statement that is likely to be considered offensive by some individuals. It uses a popular internet meme character, Yoda from Star Wars, to express a political opinion. The text of the meme is a","Classify this content: 1 = Offensive, 0 = Non-offensive."
+Wwe2NdZ.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Wwe2NdZ.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Wwe2NdZ.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+EsepD5Q.png,0,-1,"The meme appears to be a satirical commentary on the results of a poll conducted by YouGov, which is a reputable polling organization. The meme text is a humorous take on the poll results, suggesting that the poll",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+EsepD5Q.png,0,1,"The content of the meme appears to be a political statement, and it is not possible to determine the intent or context of the meme without additional information. However, the text itself does not contain any offensive language or imagery that would be in","Classify this content: 1 = Offensive, 0 = Non-offensive."
+EsepD5Q.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+EsepD5Q.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+EsepD5Q.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+xOFyAk8.png,1,1,"The meme appears to be a political statement, and whether it is offensive depends on the context in which it is being used and the opinions of the individuals viewing it. Some people might find it offensive due to its political nature and the use of a",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+xOFyAk8.png,1,-1,"The image you've provided appears to be a meme that uses a digitally altered photograph of Bernie Sanders to create a humorous or satirical effect. The text ""What if Bernie Sanders were a Communist?"" is a play on words","Classify this content: 1 = Offensive, 0 = Non-offensive."
+xOFyAk8.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+xOFyAk8.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+xOFyAk8.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+s3iOROE.png,0,1,The meme text is offensive because it is making a political statement that is likely to be divisive and could be hurtful to those who support Hillary Clinton. It is important to be respectful and considerate of others' political beliefs and not use,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+s3iOROE.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+s3iOROE.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+s3iOROE.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+s3iOROE.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+whhrfSE.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+whhrfSE.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+whhrfSE.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+whhrfSE.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+whhrfSE.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+WwN5X3R.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+WwN5X3R.png,1,1,The meme text is offensive and contains derogatory language. It is not appropriate to classify this content as it promotes discrimination and disrespect towards individuals based on their political affiliations and gender identity.,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+WwN5X3R.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+WwN5X3R.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+WwN5X3R.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CW7tNBQU0AIADyq.jpg,0,-1,"The image you've provided appears to be a movie poster for ""Finding Frank Ocean,"" which is a play on the title of the Disney-Pixar film ""Finding Nemo."" The text on the poster is a parody of",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CW7tNBQU0AIADyq.jpg,0,-1,"The content you've provided is a movie poster for ""Finding Frank Ocean,"" which is a fictional movie created by fans of the singer Frank Ocean. The classification of this content would depend on the context in which it is being used. If","Classify this content: 1 = Offensive, 0 = Non-offensive."
+CW7tNBQU0AIADyq.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CW7tNBQU0AIADyq.jpg,0,-1,"The image you've provided appears to be a movie poster for ""Finding Frank Ocean,"" which is a play on the title of the Disney-Pixar film ""Finding Nemo."" The text on the poster is in a different language","Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CW7tNBQU0AIADyq.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+otKSntf.png,1,-1,"The meme appears to be a screenshot of a Twitter exchange between Hillary Clinton and Donald Trump. The text in the meme is a tweet from Hillary Clinton, which seems to be a response to a tweet from Donald Trump. The twe",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+otKSntf.png,1,-1,"The content of the meme appears to be a political statement, and the meme itself is a form of satire or humor. The text of the meme is a dialogue between Hillary Clinton and Donald Trump, with Hillary Clinton expressing a concern","Classify this content: 1 = Offensive, 0 = Non-offensive."
+otKSntf.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+otKSntf.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+otKSntf.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+7Q0ReMA.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+7Q0ReMA.png,1,-1,"The content in the image appears to be a collage of various items, including books, a laptop, and a knife set. The meme text suggests that the content is related to real estate investment and flipping houses for profit. The books mentioned","Classify this content: 1 = Offensive, 0 = Non-offensive."
+7Q0ReMA.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+7Q0ReMA.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+7Q0ReMA.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+9CYSG3P.png,0,1,The meme text is offensive and contains a derogatory reference to a political figure.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+9CYSG3P.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+9CYSG3P.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+9CYSG3P.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+9CYSG3P.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Ci45dogWEAA2bSb.jpg,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Ci45dogWEAA2bSb.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Ci45dogWEAA2bSb.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Ci45dogWEAA2bSb.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Ci45dogWEAA2bSb.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+1iLg1U1.png,0,-1,"The meme appears to be making a joke about the behavior of some Bernie Sanders supporters during the 2020 U.S. presidential election. It suggests that while some fans of Bernie Sanders were vocal and active on social media,",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+1iLg1U1.png,0,-1,The meme text is a humorous commentary on the behavior of some Bernie Sanders supporters during the 2020 U.S. presidential election. It suggests that some fans of Bernie Sanders were initially enthusiastic about his campaign but,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+1iLg1U1.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+1iLg1U1.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+1iLg1U1.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+JHF6hFI.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+JHF6hFI.png,0,-1,"The meme text is a statement attributed to Jerry Zeifman, a former staff attorney for the House Judiciary Committee during the Watergate investigation. The text is a direct quote from Zeifman, and it is presented as a factual","Classify this content: 1 = Offensive, 0 = Non-offensive."
+JHF6hFI.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+JHF6hFI.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+JHF6hFI.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CZrwNVe.png,0,0,"The meme you've shown appears to be a political satire, using a well-known image of President Trump to create a humorous or critical commentary. The text of the meme references a famous quote from ""The Godfather""",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CZrwNVe.png,0,-1,"The meme text is a reference to a famous quote from ""The Godfather"" movie, where the character Vito Corleone says, ""I'm gonna make him an offer he can't refuse."" In this context, the mem","Classify this content: 1 = Offensive, 0 = Non-offensive."
+CZrwNVe.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CZrwNVe.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CZrwNVe.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+XMReWCt.png,0,1,Answer: 1 (Yes),Is this meme offensive? Answer 1 (Yes) or 0 (No).
+XMReWCt.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+XMReWCt.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+XMReWCt.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+XMReWCt.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+uUc4OqX.png,1,-1,"The meme in the image appears to be making a political statement, comparing Hillary Clinton's use of the ""woman card"" to a perceived lack of substance in her political platform. The meme is likely intended to be humorous or critical,",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+uUc4OqX.png,1,-1,"The content in the image appears to be a screenshot of a social media post with a meme. The meme is a humorous take on Hillary Clinton's political campaign, suggesting that she often uses her gender as a political tool, which","Classify this content: 1 = Offensive, 0 = Non-offensive."
+uUc4OqX.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+uUc4OqX.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+uUc4OqX.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+kzNSl6e.png,1,1,"The meme text is offensive as it contains derogatory and inflammatory language, making it inappropriate for public discourse. It is important to avoid using such language, as it can be hurtful and contribute to harmful stereot",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+kzNSl6e.png,1,1,"The meme text contains a statement that is highly offensive and inappropriate. It is making a false and inflammatory accusation against Hillary Clinton, which is not supported by factual evidence. The text is designed to be provocative and","Classify this content: 1 = Offensive, 0 = Non-offensive."
+kzNSl6e.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+kzNSl6e.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+kzNSl6e.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TgSYoWe.png,1,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TgSYoWe.png,1,-1,"The content in the image appears to be a screenshot of a social media post with a meme text. The meme text is a humorous and fictional scenario, suggesting that sperm whales found dead in Florida had stomachs full of","Classify this content: 1 = Offensive, 0 = Non-offensive."
+TgSYoWe.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TgSYoWe.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TgSYoWe.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+qq8wzMR.png,0,-1,"The meme you've shown features a man riding a unicycle while holding a ball, with the text ""HERE COME DAT GARY JOHNSON."" The meme is a play on the phrase ""Here comes the bride",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+qq8wzMR.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+qq8wzMR.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+qq8wzMR.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+qq8wzMR.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+fyAh3I0.png,0,1,The meme text is offensive as it references a conspiracy theory involving Hillary Clinton and the FBI. It is important to be mindful of the content we share and the potential harm it can cause by spreading misinformation or promoting conspiracy theories.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+fyAh3I0.png,0,-1,"The meme text is a joke that plays on the idea of distracting someone from a serious issue, in this case, the FBI's investigation into Hillary Clinton. The humor comes from the absurdity of using a game like Pokémon GO","Classify this content: 1 = Offensive, 0 = Non-offensive."
+fyAh3I0.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+fyAh3I0.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+fyAh3I0.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CMQqhImUkAAKeno.jpg,0,1,"The meme text is intended to be humorous by suggesting that the blur tool in a photo editing software was used to cover a bald spot on Donald Trump's head. However, it could be perceived as offensive by some individuals, as it makes",Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CMQqhImUkAAKeno.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CMQqhImUkAAKeno.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CMQqhImUkAAKeno.jpg,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CMQqhImUkAAKeno.jpg,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+tINjUCc.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+tINjUCc.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+tINjUCc.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+tINjUCc.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+tINjUCc.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+eI2N5iQ.png,0,1,1,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+eI2N5iQ.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+eI2N5iQ.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+eI2N5iQ.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+eI2N5iQ.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+8ZOPW62.png,0,1,The meme text is offensive and contains racist language. It is not appropriate to use such language in any context.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+8ZOPW62.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+8ZOPW62.png,0,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+8ZOPW62.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+8ZOPW62.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.

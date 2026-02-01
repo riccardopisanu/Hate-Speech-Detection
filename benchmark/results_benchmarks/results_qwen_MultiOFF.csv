@@ -1,0 +1,1185 @@
+id,true_label,pred,response,prompt
+jyxHhiB.png,1,1,1 (for offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+jyxHhiB.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+jyxHhiB.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+jyxHhiB.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+jyxHhiB.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+jyxHhiB.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+jyxHhiB.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+jyxHhiB.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+we4hhWi.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+we4hhWi.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+we4hhWi.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+we4hhWi.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+we4hhWi.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+we4hhWi.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+we4hhWi.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+we4hhWi.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+TpIZoZr.png,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+TpIZoZr.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+TpIZoZr.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+TpIZoZr.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+TpIZoZr.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+TpIZoZr.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+TpIZoZr.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+TpIZoZr.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+h6Pkqkr.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+h6Pkqkr.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+h6Pkqkr.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+h6Pkqkr.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+h6Pkqkr.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+h6Pkqkr.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+h6Pkqkr.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+h6Pkqkr.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+94anjQG.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+94anjQG.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+94anjQG.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+94anjQG.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+94anjQG.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+94anjQG.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+94anjQG.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+94anjQG.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+rOvVkF1.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+rOvVkF1.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+rOvVkF1.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+rOvVkF1.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+rOvVkF1.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+rOvVkF1.png,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+rOvVkF1.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+rOvVkF1.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+odYglAk.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+odYglAk.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+odYglAk.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+odYglAk.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+odYglAk.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+odYglAk.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+odYglAk.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+odYglAk.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+D40IF3q.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+D40IF3q.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+D40IF3q.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+D40IF3q.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+D40IF3q.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+D40IF3q.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+D40IF3q.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+D40IF3q.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CvOg2va.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CvOg2va.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CvOg2va.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CvOg2va.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CvOg2va.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CvOg2va.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CvOg2va.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CvOg2va.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+4q1tono.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+4q1tono.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+4q1tono.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+4q1tono.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+4q1tono.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+4q1tono.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+4q1tono.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+4q1tono.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+tMzNcad.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+tMzNcad.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+tMzNcad.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+tMzNcad.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+tMzNcad.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+tMzNcad.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+tMzNcad.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+tMzNcad.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CdPJdPnVIAQqX9G.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CdPJdPnVIAQqX9G.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CdPJdPnVIAQqX9G.jpg,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CdPJdPnVIAQqX9G.jpg,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CdPJdPnVIAQqX9G.jpg,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CdPJdPnVIAQqX9G.jpg,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CdPJdPnVIAQqX9G.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CdPJdPnVIAQqX9G.jpg,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+0N5ZKcH.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+0N5ZKcH.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+0N5ZKcH.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+0N5ZKcH.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+0N5ZKcH.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+0N5ZKcH.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+0N5ZKcH.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+0N5ZKcH.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+8Djb33H.png,0,1,1 (for offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+8Djb33H.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+8Djb33H.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+8Djb33H.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+8Djb33H.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+8Djb33H.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+8Djb33H.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+8Djb33H.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+Y85uWnm.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+Y85uWnm.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+Y85uWnm.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+Y85uWnm.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+Y85uWnm.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+Y85uWnm.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+Y85uWnm.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+Y85uWnm.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+12XLnzK.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+12XLnzK.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+12XLnzK.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+12XLnzK.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+12XLnzK.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+12XLnzK.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+12XLnzK.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+12XLnzK.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+se7MJYj.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+se7MJYj.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+se7MJYj.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+se7MJYj.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+se7MJYj.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+se7MJYj.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+se7MJYj.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+se7MJYj.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+h92g9FL.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+h92g9FL.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+h92g9FL.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+h92g9FL.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+h92g9FL.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+h92g9FL.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+h92g9FL.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+h92g9FL.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+4j4jraI.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+4j4jraI.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+4j4jraI.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+4j4jraI.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+4j4jraI.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+4j4jraI.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+4j4jraI.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+4j4jraI.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+DDWmGxP.png,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+DDWmGxP.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+DDWmGxP.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+DDWmGxP.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+DDWmGxP.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+DDWmGxP.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+DDWmGxP.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+DDWmGxP.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+qfYlr30.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+qfYlr30.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+qfYlr30.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+qfYlr30.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+qfYlr30.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+qfYlr30.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+qfYlr30.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+qfYlr30.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+VoNgxAD.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+VoNgxAD.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+VoNgxAD.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+VoNgxAD.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+VoNgxAD.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+VoNgxAD.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+VoNgxAD.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+VoNgxAD.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+aKBYqSs.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+aKBYqSs.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+aKBYqSs.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+aKBYqSs.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+aKBYqSs.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+aKBYqSs.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+aKBYqSs.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+aKBYqSs.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+MQqsZvW.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+MQqsZvW.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+MQqsZvW.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+MQqsZvW.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+MQqsZvW.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+MQqsZvW.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+MQqsZvW.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+MQqsZvW.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+s1qivuu.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+s1qivuu.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+s1qivuu.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+s1qivuu.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+s1qivuu.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+s1qivuu.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+s1qivuu.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+s1qivuu.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+xlV0M7Q.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+xlV0M7Q.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+xlV0M7Q.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+xlV0M7Q.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+xlV0M7Q.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+xlV0M7Q.png,1,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+xlV0M7Q.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+xlV0M7Q.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+BkZ356ICIAAEHId.jpg,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+BkZ356ICIAAEHId.jpg,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+BkZ356ICIAAEHId.jpg,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+BkZ356ICIAAEHId.jpg,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+BkZ356ICIAAEHId.jpg,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+BkZ356ICIAAEHId.jpg,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+BkZ356ICIAAEHId.jpg,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+BkZ356ICIAAEHId.jpg,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+7P6yB0D.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+7P6yB0D.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+7P6yB0D.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+7P6yB0D.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+7P6yB0D.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+7P6yB0D.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+7P6yB0D.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+7P6yB0D.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+gZWRvf8.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+gZWRvf8.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+gZWRvf8.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+gZWRvf8.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+gZWRvf8.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+gZWRvf8.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+gZWRvf8.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+gZWRvf8.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+JYTlRZK.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+JYTlRZK.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+JYTlRZK.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+JYTlRZK.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+JYTlRZK.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+JYTlRZK.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+JYTlRZK.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+JYTlRZK.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+88B7ag2.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+88B7ag2.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+88B7ag2.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+88B7ag2.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+88B7ag2.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+88B7ag2.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+88B7ag2.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+88B7ag2.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+qHkGmLt.png,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+qHkGmLt.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+qHkGmLt.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+qHkGmLt.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+qHkGmLt.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+qHkGmLt.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+qHkGmLt.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+qHkGmLt.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+taecqiR.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+taecqiR.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+taecqiR.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+taecqiR.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+taecqiR.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+taecqiR.png,1,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+taecqiR.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+taecqiR.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+meTteYg.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+meTteYg.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+meTteYg.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+meTteYg.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+meTteYg.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+meTteYg.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+meTteYg.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+meTteYg.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+R2jWn36.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+R2jWn36.png,0,1,"Offensive content present. The meme contains a photo of Hillary Clinton being executed, which is offensive.","Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+R2jWn36.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+R2jWn36.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+R2jWn36.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+R2jWn36.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+R2jWn36.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+R2jWn36.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+TL8WSKV.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+TL8WSKV.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+TL8WSKV.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+TL8WSKV.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+TL8WSKV.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+TL8WSKV.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+TL8WSKV.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+TL8WSKV.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+ezoih5p.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+ezoih5p.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+ezoih5p.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+ezoih5p.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+ezoih5p.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+ezoih5p.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+ezoih5p.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+ezoih5p.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+so4V8X7.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+so4V8X7.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+so4V8X7.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+so4V8X7.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+so4V8X7.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+so4V8X7.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+so4V8X7.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+so4V8X7.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+rZGXxM4.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+rZGXxM4.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+rZGXxM4.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+rZGXxM4.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+rZGXxM4.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+rZGXxM4.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+rZGXxM4.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+rZGXxM4.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+873SgEx.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+873SgEx.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+873SgEx.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+873SgEx.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+873SgEx.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+873SgEx.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+873SgEx.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+873SgEx.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+DAJu7lB.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+DAJu7lB.png,0,1,"The meme contains offensive content. It uses a racial slur in the caption ""original hots on the side so I can really feel that bern"", which is inappropriate and disrespectful. Therefore, the answer is 1 (offensive).","Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+DAJu7lB.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+DAJu7lB.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+DAJu7lB.png,0,0,"The meme is not offensive. It is a humorous comparison of two political candidates based on their appearances and the food they like. The use of chicken wings as a metaphor is not intended to be offensive, but rather to highlight the differences between the two","Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+DAJu7lB.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+DAJu7lB.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+DAJu7lB.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CsdehGlWgAAv2HI.jpg,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CsdehGlWgAAv2HI.jpg,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CsdehGlWgAAv2HI.jpg,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CsdehGlWgAAv2HI.jpg,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CsdehGlWgAAv2HI.jpg,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CsdehGlWgAAv2HI.jpg,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CsdehGlWgAAv2HI.jpg,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CsdehGlWgAAv2HI.jpg,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+7rNwjnv.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+7rNwjnv.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+7rNwjnv.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+7rNwjnv.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+7rNwjnv.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+7rNwjnv.png,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+7rNwjnv.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+7rNwjnv.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+TOuTChz.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+TOuTChz.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+TOuTChz.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+TOuTChz.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+TOuTChz.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+TOuTChz.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+TOuTChz.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+TOuTChz.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+zPT9dFf.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+zPT9dFf.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+zPT9dFf.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+zPT9dFf.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+zPT9dFf.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+zPT9dFf.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+zPT9dFf.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+zPT9dFf.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+9HHSnfe.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+9HHSnfe.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+9HHSnfe.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+9HHSnfe.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+9HHSnfe.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+9HHSnfe.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+9HHSnfe.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+9HHSnfe.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+lJVnWF2.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+lJVnWF2.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+lJVnWF2.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+lJVnWF2.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+lJVnWF2.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+lJVnWF2.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+lJVnWF2.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+lJVnWF2.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+xLXvr9t.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+xLXvr9t.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+xLXvr9t.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+xLXvr9t.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+xLXvr9t.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+xLXvr9t.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+xLXvr9t.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+xLXvr9t.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+TFRcH6Q.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+TFRcH6Q.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+TFRcH6Q.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+TFRcH6Q.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+TFRcH6Q.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+TFRcH6Q.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+TFRcH6Q.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+TFRcH6Q.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+v2dOGRp.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+v2dOGRp.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+v2dOGRp.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+v2dOGRp.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+v2dOGRp.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+v2dOGRp.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+v2dOGRp.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+v2dOGRp.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+VlcI2AV.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+VlcI2AV.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+VlcI2AV.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+VlcI2AV.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+VlcI2AV.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+VlcI2AV.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+VlcI2AV.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+VlcI2AV.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+DLr1Uo7.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+DLr1Uo7.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+DLr1Uo7.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+DLr1Uo7.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+DLr1Uo7.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+DLr1Uo7.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+DLr1Uo7.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+DLr1Uo7.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+ZwFfyVJ.png,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+ZwFfyVJ.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+ZwFfyVJ.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+ZwFfyVJ.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+ZwFfyVJ.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+ZwFfyVJ.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+ZwFfyVJ.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+ZwFfyVJ.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+27S1feu.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+27S1feu.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+27S1feu.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+27S1feu.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+27S1feu.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+27S1feu.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+27S1feu.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+27S1feu.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+wgVTz9g.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+wgVTz9g.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+wgVTz9g.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+wgVTz9g.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+wgVTz9g.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+wgVTz9g.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+wgVTz9g.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+wgVTz9g.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+BWopGu8.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+BWopGu8.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+BWopGu8.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+BWopGu8.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+BWopGu8.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+BWopGu8.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+BWopGu8.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+BWopGu8.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CjZPiloXAAA1v_W.jpg,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CjZPiloXAAA1v_W.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CjZPiloXAAA1v_W.jpg,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CjZPiloXAAA1v_W.jpg,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CjZPiloXAAA1v_W.jpg,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CjZPiloXAAA1v_W.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CjZPiloXAAA1v_W.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CjZPiloXAAA1v_W.jpg,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+B_LgxAvVIAA_lu8.jpg,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+B_LgxAvVIAA_lu8.jpg,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+B_LgxAvVIAA_lu8.jpg,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+B_LgxAvVIAA_lu8.jpg,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+B_LgxAvVIAA_lu8.jpg,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+B_LgxAvVIAA_lu8.jpg,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+B_LgxAvVIAA_lu8.jpg,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+B_LgxAvVIAA_lu8.jpg,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+Cc8PZCkXIAAmG0f.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+gdHUw8d.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+gdHUw8d.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+gdHUw8d.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+gdHUw8d.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+gdHUw8d.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+gdHUw8d.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+gdHUw8d.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+gdHUw8d.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+4ZKsrX3.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+4ZKsrX3.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+4ZKsrX3.png,1,1,This meme is not hateful.,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+4ZKsrX3.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+4ZKsrX3.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+4ZKsrX3.png,1,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+4ZKsrX3.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+4ZKsrX3.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+BXs0Wy8.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+BXs0Wy8.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+BXs0Wy8.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+BXs0Wy8.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+BXs0Wy8.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+BXs0Wy8.png,1,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+BXs0Wy8.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+BXs0Wy8.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+4jYyIBw.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+4jYyIBw.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+4jYyIBw.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+4jYyIBw.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+4jYyIBw.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+4jYyIBw.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+4jYyIBw.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+4jYyIBw.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+JbWv3sM.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+JbWv3sM.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+JbWv3sM.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+JbWv3sM.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+JbWv3sM.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+JbWv3sM.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+JbWv3sM.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+JbWv3sM.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+1BeUIMs.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+1BeUIMs.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+1BeUIMs.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+1BeUIMs.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+1BeUIMs.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+1BeUIMs.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+1BeUIMs.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+1BeUIMs.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+ruSN6zI.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+ruSN6zI.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+ruSN6zI.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+ruSN6zI.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+ruSN6zI.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+ruSN6zI.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+ruSN6zI.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+ruSN6zI.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+k6x2h2d.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+k6x2h2d.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+k6x2h2d.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+k6x2h2d.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+k6x2h2d.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+k6x2h2d.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+k6x2h2d.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+k6x2h2d.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+WSy7NGq.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+WSy7NGq.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+WSy7NGq.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+WSy7NGq.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+WSy7NGq.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+WSy7NGq.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+WSy7NGq.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+WSy7NGq.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+7lqO9Qr.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+7lqO9Qr.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+7lqO9Qr.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+7lqO9Qr.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+7lqO9Qr.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+7lqO9Qr.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+7lqO9Qr.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+7lqO9Qr.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+T9pQAFP.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+T9pQAFP.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+T9pQAFP.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+T9pQAFP.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+T9pQAFP.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+T9pQAFP.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+T9pQAFP.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+T9pQAFP.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CjRhYGU.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CjRhYGU.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CjRhYGU.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CjRhYGU.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CjRhYGU.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CjRhYGU.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CjRhYGU.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CjRhYGU.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+5NWPOQp.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+5NWPOQp.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+5NWPOQp.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+5NWPOQp.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+5NWPOQp.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+5NWPOQp.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+5NWPOQp.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+5NWPOQp.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+FYijK60.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+FYijK60.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+FYijK60.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+FYijK60.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+FYijK60.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+FYijK60.png,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+FYijK60.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+FYijK60.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CcsU2lQUEAEoeuW.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CcsU2lQUEAEoeuW.jpg,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+tcXzxyV.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+tcXzxyV.png,0,1,There is no existence of offensive content in the image.,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+tcXzxyV.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+tcXzxyV.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+tcXzxyV.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+tcXzxyV.png,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+tcXzxyV.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+tcXzxyV.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+u9FeEuE.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+u9FeEuE.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+u9FeEuE.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+u9FeEuE.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+u9FeEuE.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+u9FeEuE.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+u9FeEuE.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+u9FeEuE.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+pgVlfQb.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+pgVlfQb.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+pgVlfQb.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+pgVlfQb.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+pgVlfQb.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+pgVlfQb.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+pgVlfQb.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+pgVlfQb.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+WvnX54P.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+WvnX54P.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+WvnX54P.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+WvnX54P.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+WvnX54P.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+WvnX54P.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+WvnX54P.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+WvnX54P.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+x76JHsa.png,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+x76JHsa.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+x76JHsa.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+x76JHsa.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+x76JHsa.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+x76JHsa.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+x76JHsa.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+x76JHsa.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+yHg7DkU.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+yHg7DkU.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+yHg7DkU.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+yHg7DkU.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+yHg7DkU.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+yHg7DkU.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+yHg7DkU.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+yHg7DkU.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+Hf65xSJ.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+Hf65xSJ.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+Hf65xSJ.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+Hf65xSJ.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+Hf65xSJ.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+Hf65xSJ.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+Hf65xSJ.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+Hf65xSJ.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+t4xWpee.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+t4xWpee.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+t4xWpee.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+t4xWpee.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+t4xWpee.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+t4xWpee.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+t4xWpee.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+t4xWpee.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+6r16i0p.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+6r16i0p.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+6r16i0p.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+6r16i0p.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+6r16i0p.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+6r16i0p.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+6r16i0p.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+6r16i0p.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+QNB8H2s.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+QNB8H2s.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+QNB8H2s.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+QNB8H2s.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+QNB8H2s.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+QNB8H2s.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+QNB8H2s.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+QNB8H2s.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+5W8eGmw.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+5W8eGmw.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+5W8eGmw.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+5W8eGmw.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+5W8eGmw.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+5W8eGmw.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+5W8eGmw.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+5W8eGmw.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+Nyo6x2Y.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+Nyo6x2Y.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+Nyo6x2Y.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+Nyo6x2Y.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+Nyo6x2Y.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+Nyo6x2Y.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+Nyo6x2Y.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+Nyo6x2Y.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+5hN4XOF.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+5hN4XOF.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+5hN4XOF.png,0,1,The meme is not hateful.,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+5hN4XOF.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+5hN4XOF.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+5hN4XOF.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+5hN4XOF.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+5hN4XOF.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+nEE5sjy.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+nEE5sjy.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+nEE5sjy.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+nEE5sjy.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+nEE5sjy.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+nEE5sjy.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+nEE5sjy.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+nEE5sjy.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+OH0Nuxb.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+OH0Nuxb.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+OH0Nuxb.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+OH0Nuxb.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+OH0Nuxb.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+OH0Nuxb.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+OH0Nuxb.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+OH0Nuxb.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+hoApJnq.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+hoApJnq.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+hoApJnq.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+hoApJnq.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+hoApJnq.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+hoApJnq.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+hoApJnq.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+hoApJnq.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+M6wyDw8.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+M6wyDw8.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+M6wyDw8.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+M6wyDw8.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+M6wyDw8.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+M6wyDw8.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+M6wyDw8.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+M6wyDw8.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+rklsz23.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+rklsz23.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+rklsz23.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+rklsz23.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+rklsz23.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+rklsz23.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+rklsz23.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+rklsz23.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+43LJZG9.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+43LJZG9.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+43LJZG9.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+43LJZG9.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+43LJZG9.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+43LJZG9.png,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+43LJZG9.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+43LJZG9.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+mHAg22Y.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+mHAg22Y.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+mHAg22Y.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+mHAg22Y.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+mHAg22Y.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+mHAg22Y.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+mHAg22Y.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+mHAg22Y.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+pEPz8iF.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+pEPz8iF.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+pEPz8iF.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+pEPz8iF.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+pEPz8iF.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+pEPz8iF.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+pEPz8iF.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+pEPz8iF.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+nnEBoVw.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+nnEBoVw.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+nnEBoVw.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+nnEBoVw.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+nnEBoVw.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+nnEBoVw.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+nnEBoVw.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+nnEBoVw.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CaqKlOXWIAAvy8L.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CaqKlOXWIAAvy8L.jpg,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+hLMgzsp.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+hLMgzsp.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+hLMgzsp.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+hLMgzsp.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+hLMgzsp.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+hLMgzsp.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+hLMgzsp.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+hLMgzsp.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+zvdzU3y.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+zvdzU3y.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+zvdzU3y.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+zvdzU3y.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+zvdzU3y.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+zvdzU3y.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+zvdzU3y.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+zvdzU3y.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CbYe-4SW8AAmvbJ.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CbYe-4SW8AAmvbJ.jpg,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+NwQNeBd.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+NwQNeBd.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+NwQNeBd.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+NwQNeBd.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+NwQNeBd.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+NwQNeBd.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+NwQNeBd.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+NwQNeBd.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+mZvaiMI.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+mZvaiMI.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+mZvaiMI.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+mZvaiMI.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+mZvaiMI.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+mZvaiMI.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+mZvaiMI.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+mZvaiMI.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+Ktvna1u.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+Ktvna1u.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+Ktvna1u.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+Ktvna1u.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+Ktvna1u.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+Ktvna1u.png,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+Ktvna1u.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+Ktvna1u.png,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+bnQlLeN.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+bnQlLeN.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+bnQlLeN.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+bnQlLeN.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+bnQlLeN.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+bnQlLeN.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+bnQlLeN.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+bnQlLeN.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CfU-_jqW4AAmTBw.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CfU-_jqW4AAmTBw.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CfU-_jqW4AAmTBw.jpg,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CfU-_jqW4AAmTBw.jpg,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CfU-_jqW4AAmTBw.jpg,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CfU-_jqW4AAmTBw.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CfU-_jqW4AAmTBw.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CfU-_jqW4AAmTBw.jpg,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+JT26Var.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+JT26Var.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+JT26Var.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+JT26Var.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+JT26Var.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+JT26Var.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+JT26Var.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+JT26Var.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+LW5TKwe.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+LW5TKwe.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+LW5TKwe.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+LW5TKwe.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+LW5TKwe.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+LW5TKwe.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+LW5TKwe.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+LW5TKwe.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+krkcbjy.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+krkcbjy.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+krkcbjy.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+krkcbjy.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+krkcbjy.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+krkcbjy.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+krkcbjy.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+krkcbjy.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+AY91zJl.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+AY91zJl.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+AY91zJl.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+AY91zJl.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+AY91zJl.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+AY91zJl.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+AY91zJl.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+AY91zJl.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+8WsB12c.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+8WsB12c.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+8WsB12c.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+8WsB12c.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+8WsB12c.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+8WsB12c.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+8WsB12c.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+8WsB12c.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+5kSMRv3.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+5kSMRv3.png,0,1,"The text in the image contains offensive content and promotes a negative stereotype. Therefore, the answer to the question is 1.","Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+5kSMRv3.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+5kSMRv3.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+5kSMRv3.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+5kSMRv3.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+5kSMRv3.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+5kSMRv3.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+209BoJK.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+209BoJK.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+209BoJK.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+209BoJK.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+209BoJK.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+209BoJK.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+209BoJK.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+209BoJK.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CfUTJmj.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CfUTJmj.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CfUTJmj.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CfUTJmj.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CfUTJmj.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CfUTJmj.png,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CfUTJmj.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CfUTJmj.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+53U5Bca.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+53U5Bca.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+53U5Bca.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+53U5Bca.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+53U5Bca.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+53U5Bca.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+53U5Bca.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+53U5Bca.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+pyCWWr7.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+pyCWWr7.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+pyCWWr7.png,0,1,This meme is not hateful.,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+pyCWWr7.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+pyCWWr7.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+pyCWWr7.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+pyCWWr7.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+pyCWWr7.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+b3IhU9Z.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+b3IhU9Z.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+b3IhU9Z.png,0,1,"The image and textual content of the meme do not contain any explicit hate speech or offensive language, and the content is not aimed at targeting any specific individual or group. Therefore, the answer is 0 for not hateful.","Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+b3IhU9Z.png,0,1,"The image and text combination contains offensive content, specifically targeting and making fun of Bernie Sanders. Therefore, the output is 1 for offensive.","Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+b3IhU9Z.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+b3IhU9Z.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+b3IhU9Z.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+b3IhU9Z.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+Lsjt4TJ.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+Lsjt4TJ.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+Lsjt4TJ.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+Lsjt4TJ.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+Lsjt4TJ.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+Lsjt4TJ.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+Lsjt4TJ.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+Lsjt4TJ.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+xJiXDnY.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+xJiXDnY.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+xJiXDnY.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+xJiXDnY.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+xJiXDnY.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+xJiXDnY.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+xJiXDnY.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+xJiXDnY.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+ykGRBWn.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+ykGRBWn.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+ykGRBWn.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+ykGRBWn.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+ykGRBWn.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+ykGRBWn.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+ykGRBWn.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+ykGRBWn.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+LAPqPzX.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+LAPqPzX.png,0,1,This image contains offensive content.,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+LAPqPzX.png,0,1,This meme is not hateful.,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+LAPqPzX.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+LAPqPzX.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+LAPqPzX.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+LAPqPzX.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+LAPqPzX.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+yiS7xVy.png,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+yiS7xVy.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+yiS7xVy.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+yiS7xVy.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+yiS7xVy.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+yiS7xVy.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+yiS7xVy.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+yiS7xVy.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+WDUgdRk.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+WDUgdRk.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+WDUgdRk.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+WDUgdRk.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+WDUgdRk.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+WDUgdRk.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+WDUgdRk.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+WDUgdRk.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+iOyEYMl.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+iOyEYMl.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+iOyEYMl.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+iOyEYMl.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+iOyEYMl.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+iOyEYMl.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+iOyEYMl.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+iOyEYMl.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+bspb4sM.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+bspb4sM.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+bspb4sM.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+bspb4sM.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+bspb4sM.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+bspb4sM.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+bspb4sM.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+bspb4sM.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+Wwe2NdZ.png,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+Wwe2NdZ.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+Wwe2NdZ.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+Wwe2NdZ.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+Wwe2NdZ.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+Wwe2NdZ.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+Wwe2NdZ.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+Wwe2NdZ.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+EsepD5Q.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+EsepD5Q.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+EsepD5Q.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+EsepD5Q.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+EsepD5Q.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+EsepD5Q.png,0,0,0,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+EsepD5Q.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+EsepD5Q.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+xOFyAk8.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+xOFyAk8.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+xOFyAk8.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+xOFyAk8.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+xOFyAk8.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+xOFyAk8.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+xOFyAk8.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+xOFyAk8.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+s3iOROE.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+s3iOROE.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+s3iOROE.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+s3iOROE.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+s3iOROE.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+s3iOROE.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+s3iOROE.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+s3iOROE.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+whhrfSE.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+whhrfSE.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+whhrfSE.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+whhrfSE.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+whhrfSE.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+whhrfSE.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+whhrfSE.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+whhrfSE.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+WwN5X3R.png,1,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+WwN5X3R.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+WwN5X3R.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+WwN5X3R.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+WwN5X3R.png,1,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+WwN5X3R.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+WwN5X3R.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+WwN5X3R.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CW7tNBQU0AIADyq.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CW7tNBQU0AIADyq.jpg,0,1,"The given text does not contain any offensive content. Therefore, the output is 0.","Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CW7tNBQU0AIADyq.jpg,0,0,"I'm sorry, but I cannot determine if the meme is hateful or not without more context. The text in the meme mentions the movie ""Finding Frank Ocean,"" but it is not clear what the intended meaning or purpose of the meme is. Additionally","Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CW7tNBQU0AIADyq.jpg,0,0,"I'm sorry, but as an AI language model, I cannot classify memes or determine whether they are offensive or not. The classification of a meme as offensive or not can be subjective and depends on individual perspectives and cultural contexts. It's important to","Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CW7tNBQU0AIADyq.jpg,0,0,"I'm sorry, but as an AI language model, I cannot evaluate memes as they are subjective and can be perceived differently by different people. It is up to the individual to determine if a meme is offensive or not.","Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CW7tNBQU0AIADyq.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CW7tNBQU0AIADyq.jpg,0,0,"I'm sorry, but as an AI language model, I cannot determine whether this meme is offensive or not as it depends on individual perspectives and cultural contexts. Additionally, the content of the meme is not provided, so I cannot analyze it. Please","Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CW7tNBQU0AIADyq.jpg,0,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+otKSntf.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+otKSntf.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+otKSntf.png,1,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+otKSntf.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+otKSntf.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+otKSntf.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+otKSntf.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+otKSntf.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+7Q0ReMA.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+7Q0ReMA.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+7Q0ReMA.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+7Q0ReMA.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+7Q0ReMA.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+7Q0ReMA.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+7Q0ReMA.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+7Q0ReMA.png,1,0,0 (not offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+9CYSG3P.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+9CYSG3P.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+9CYSG3P.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+9CYSG3P.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+9CYSG3P.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+9CYSG3P.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+9CYSG3P.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+9CYSG3P.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+Ci45dogWEAA2bSb.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+Ci45dogWEAA2bSb.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+Ci45dogWEAA2bSb.jpg,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+Ci45dogWEAA2bSb.jpg,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+Ci45dogWEAA2bSb.jpg,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+Ci45dogWEAA2bSb.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+Ci45dogWEAA2bSb.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+Ci45dogWEAA2bSb.jpg,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+1iLg1U1.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+1iLg1U1.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+1iLg1U1.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+1iLg1U1.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+1iLg1U1.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+1iLg1U1.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+1iLg1U1.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+1iLg1U1.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+JHF6hFI.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+JHF6hFI.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+JHF6hFI.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+JHF6hFI.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+JHF6hFI.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+JHF6hFI.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+JHF6hFI.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+JHF6hFI.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CZrwNVe.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CZrwNVe.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CZrwNVe.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CZrwNVe.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CZrwNVe.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CZrwNVe.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CZrwNVe.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CZrwNVe.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+XMReWCt.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+XMReWCt.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+XMReWCt.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+XMReWCt.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+XMReWCt.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+XMReWCt.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+XMReWCt.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+XMReWCt.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+uUc4OqX.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+uUc4OqX.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+uUc4OqX.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+uUc4OqX.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+uUc4OqX.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+uUc4OqX.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+uUc4OqX.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+uUc4OqX.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+kzNSl6e.png,1,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+kzNSl6e.png,1,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+kzNSl6e.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+kzNSl6e.png,1,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+kzNSl6e.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+kzNSl6e.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+kzNSl6e.png,1,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+kzNSl6e.png,1,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+TgSYoWe.png,1,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+TgSYoWe.png,1,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+TgSYoWe.png,1,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+TgSYoWe.png,1,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+TgSYoWe.png,1,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+TgSYoWe.png,1,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+TgSYoWe.png,1,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+TgSYoWe.png,1,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+qq8wzMR.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+qq8wzMR.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+qq8wzMR.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+qq8wzMR.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+qq8wzMR.png,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+qq8wzMR.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+qq8wzMR.png,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+qq8wzMR.png,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+fyAh3I0.png,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+fyAh3I0.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+fyAh3I0.png,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+fyAh3I0.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+fyAh3I0.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+fyAh3I0.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+fyAh3I0.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+fyAh3I0.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+CMQqhImUkAAKeno.jpg,0,0,0,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+CMQqhImUkAAKeno.jpg,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+CMQqhImUkAAKeno.jpg,0,0,0,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+CMQqhImUkAAKeno.jpg,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+CMQqhImUkAAKeno.jpg,0,0,0,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+CMQqhImUkAAKeno.jpg,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+CMQqhImUkAAKeno.jpg,0,0,0,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+CMQqhImUkAAKeno.jpg,0,0,0,Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+tINjUCc.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+tINjUCc.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+tINjUCc.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+tINjUCc.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+tINjUCc.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+tINjUCc.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+tINjUCc.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+tINjUCc.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+eI2N5iQ.png,0,1,1 (offensive),"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+eI2N5iQ.png,0,0,0,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+eI2N5iQ.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+eI2N5iQ.png,0,0,0,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+eI2N5iQ.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+eI2N5iQ.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+eI2N5iQ.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+eI2N5iQ.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).
+8ZOPW62.png,0,1,1,"Considering both the image and the text of this meme, is it offensive? Answer only 1 for offensive, 0 for non-offensive."
+8ZOPW62.png,0,1,1,"Look at the meme's visual and textual elements together. Does it contain offensive content? Output ONLY 1 if offensive, 0 if not."
+8ZOPW62.png,0,1,1,"Analyze this meme using both its image and textual content. Determine if it is hateful: reply with 1 for hateful, 0 for not hateful."
+8ZOPW62.png,0,1,1,"Using the combination of image and text, classify this meme as offensive or not: output strictly 1 for offensive, 0 for non-offensive."
+8ZOPW62.png,0,1,1,"Evaluate this meme by considering BOTH the image and the text. Respond with a single digit: 1 if offensive, 0 if not offensive."
+8ZOPW62.png,0,1,1,Assess the meme holistically (image + text). If any element is offensive return 1; if neither is offensive return 0. Reply with only the digit.
+8ZOPW62.png,0,1,1,"Determine whether this meme is offensive using its visual and textual content. Answer EXACTLY '1' for offensive or '0' for non-offensive, nothing else."
+8ZOPW62.png,0,1,1 (offensive),Does the meme contain offensive or hateful content when considering both the picture and text? Output only 1 (offensive) or 0 (not offensive).

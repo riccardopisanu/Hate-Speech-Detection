@@ -1,0 +1,741 @@
+id,true_label,pred,response,prompt
+jyxHhiB.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+jyxHhiB.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+jyxHhiB.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+jyxHhiB.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+jyxHhiB.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+we4hhWi.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+we4hhWi.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+we4hhWi.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+we4hhWi.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+we4hhWi.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TpIZoZr.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TpIZoZr.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+TpIZoZr.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TpIZoZr.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TpIZoZr.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+h6Pkqkr.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+h6Pkqkr.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+h6Pkqkr.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+h6Pkqkr.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+h6Pkqkr.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+94anjQG.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+94anjQG.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+94anjQG.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+94anjQG.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+94anjQG.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+rOvVkF1.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+rOvVkF1.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+rOvVkF1.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+rOvVkF1.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+rOvVkF1.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+odYglAk.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+odYglAk.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+odYglAk.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+odYglAk.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+odYglAk.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+D40IF3q.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+D40IF3q.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+D40IF3q.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+D40IF3q.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+D40IF3q.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CvOg2va.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CvOg2va.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CvOg2va.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CvOg2va.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CvOg2va.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+4q1tono.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+4q1tono.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+4q1tono.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+4q1tono.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+4q1tono.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+tMzNcad.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+tMzNcad.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+tMzNcad.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+tMzNcad.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+tMzNcad.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CdPJdPnVIAQqX9G.jpg,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CdPJdPnVIAQqX9G.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CdPJdPnVIAQqX9G.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CdPJdPnVIAQqX9G.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CdPJdPnVIAQqX9G.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+0N5ZKcH.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+0N5ZKcH.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+0N5ZKcH.png,0,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+0N5ZKcH.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+0N5ZKcH.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+8Djb33H.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+8Djb33H.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+8Djb33H.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+8Djb33H.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+8Djb33H.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Y85uWnm.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Y85uWnm.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Y85uWnm.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Y85uWnm.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Y85uWnm.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+12XLnzK.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+12XLnzK.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+12XLnzK.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+12XLnzK.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+12XLnzK.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+se7MJYj.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+se7MJYj.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+se7MJYj.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+se7MJYj.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+se7MJYj.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+h92g9FL.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+h92g9FL.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+h92g9FL.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+h92g9FL.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+h92g9FL.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+4j4jraI.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+4j4jraI.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+4j4jraI.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+4j4jraI.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+4j4jraI.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+DDWmGxP.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+DDWmGxP.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+DDWmGxP.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+DDWmGxP.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+DDWmGxP.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+qfYlr30.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+qfYlr30.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+qfYlr30.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+qfYlr30.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+qfYlr30.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+VoNgxAD.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+VoNgxAD.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+VoNgxAD.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+VoNgxAD.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+VoNgxAD.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+aKBYqSs.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+aKBYqSs.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+aKBYqSs.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+aKBYqSs.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+aKBYqSs.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+MQqsZvW.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+MQqsZvW.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+MQqsZvW.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+MQqsZvW.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+MQqsZvW.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+s1qivuu.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+s1qivuu.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+s1qivuu.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+s1qivuu.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+s1qivuu.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+xlV0M7Q.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+xlV0M7Q.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+xlV0M7Q.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+xlV0M7Q.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+xlV0M7Q.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+BkZ356ICIAAEHId.jpg,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+BkZ356ICIAAEHId.jpg,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+BkZ356ICIAAEHId.jpg,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+BkZ356ICIAAEHId.jpg,1,1,Offensive,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+BkZ356ICIAAEHId.jpg,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+7P6yB0D.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+7P6yB0D.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+7P6yB0D.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+7P6yB0D.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+7P6yB0D.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+gZWRvf8.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+gZWRvf8.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+gZWRvf8.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+gZWRvf8.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+gZWRvf8.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+JYTlRZK.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+JYTlRZK.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+JYTlRZK.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+JYTlRZK.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+JYTlRZK.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+88B7ag2.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+88B7ag2.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+88B7ag2.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+88B7ag2.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+88B7ag2.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+qHkGmLt.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+qHkGmLt.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+qHkGmLt.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+qHkGmLt.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+qHkGmLt.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+taecqiR.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+taecqiR.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+taecqiR.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+taecqiR.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+taecqiR.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+meTteYg.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+meTteYg.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+meTteYg.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+meTteYg.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+meTteYg.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+R2jWn36.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+R2jWn36.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+R2jWn36.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+R2jWn36.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+R2jWn36.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TL8WSKV.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TL8WSKV.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+TL8WSKV.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TL8WSKV.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TL8WSKV.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+ezoih5p.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+ezoih5p.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+ezoih5p.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+ezoih5p.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+ezoih5p.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+so4V8X7.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+so4V8X7.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+so4V8X7.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+so4V8X7.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+so4V8X7.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+rZGXxM4.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+rZGXxM4.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+rZGXxM4.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+rZGXxM4.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+rZGXxM4.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+873SgEx.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+873SgEx.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+873SgEx.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+873SgEx.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+873SgEx.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+DAJu7lB.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+DAJu7lB.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+DAJu7lB.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+DAJu7lB.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+DAJu7lB.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CsdehGlWgAAv2HI.jpg,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CsdehGlWgAAv2HI.jpg,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CsdehGlWgAAv2HI.jpg,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CsdehGlWgAAv2HI.jpg,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CsdehGlWgAAv2HI.jpg,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+7rNwjnv.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+7rNwjnv.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+7rNwjnv.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+7rNwjnv.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+7rNwjnv.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TOuTChz.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TOuTChz.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+TOuTChz.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TOuTChz.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TOuTChz.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+zPT9dFf.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+zPT9dFf.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+zPT9dFf.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+zPT9dFf.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+zPT9dFf.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+9HHSnfe.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+9HHSnfe.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+9HHSnfe.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+9HHSnfe.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+9HHSnfe.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+lJVnWF2.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+lJVnWF2.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+lJVnWF2.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+lJVnWF2.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+lJVnWF2.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+xLXvr9t.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+xLXvr9t.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+xLXvr9t.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+xLXvr9t.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+xLXvr9t.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TFRcH6Q.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TFRcH6Q.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+TFRcH6Q.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TFRcH6Q.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TFRcH6Q.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+v2dOGRp.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+v2dOGRp.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+v2dOGRp.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+v2dOGRp.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+v2dOGRp.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+VlcI2AV.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+VlcI2AV.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+VlcI2AV.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+VlcI2AV.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+VlcI2AV.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+DLr1Uo7.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+DLr1Uo7.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+DLr1Uo7.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+DLr1Uo7.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+DLr1Uo7.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+ZwFfyVJ.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+ZwFfyVJ.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+ZwFfyVJ.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+ZwFfyVJ.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+ZwFfyVJ.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+27S1feu.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+27S1feu.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+27S1feu.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+27S1feu.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+27S1feu.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+wgVTz9g.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+wgVTz9g.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+wgVTz9g.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+wgVTz9g.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+wgVTz9g.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+BWopGu8.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+BWopGu8.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+BWopGu8.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+BWopGu8.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+BWopGu8.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CjZPiloXAAA1v_W.jpg,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CjZPiloXAAA1v_W.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CjZPiloXAAA1v_W.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CjZPiloXAAA1v_W.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CjZPiloXAAA1v_W.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+B_LgxAvVIAA_lu8.jpg,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+B_LgxAvVIAA_lu8.jpg,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+B_LgxAvVIAA_lu8.jpg,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+B_LgxAvVIAA_lu8.jpg,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+B_LgxAvVIAA_lu8.jpg,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Cc8PZCkXIAAmG0f.jpg,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Cc8PZCkXIAAmG0f.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Cc8PZCkXIAAmG0f.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+gdHUw8d.png,1,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+gdHUw8d.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+gdHUw8d.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+gdHUw8d.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+gdHUw8d.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+4ZKsrX3.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+4ZKsrX3.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+4ZKsrX3.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+4ZKsrX3.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+4ZKsrX3.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+BXs0Wy8.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+BXs0Wy8.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+BXs0Wy8.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+BXs0Wy8.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+BXs0Wy8.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+4jYyIBw.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+4jYyIBw.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+4jYyIBw.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+4jYyIBw.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+4jYyIBw.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+JbWv3sM.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+JbWv3sM.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+JbWv3sM.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+JbWv3sM.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+JbWv3sM.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+1BeUIMs.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+1BeUIMs.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+1BeUIMs.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+1BeUIMs.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+1BeUIMs.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+ruSN6zI.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+ruSN6zI.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+ruSN6zI.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+ruSN6zI.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+ruSN6zI.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+k6x2h2d.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+k6x2h2d.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+k6x2h2d.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+k6x2h2d.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+k6x2h2d.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+WSy7NGq.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+WSy7NGq.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+WSy7NGq.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+WSy7NGq.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+WSy7NGq.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+7lqO9Qr.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+7lqO9Qr.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+7lqO9Qr.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+7lqO9Qr.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+7lqO9Qr.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+T9pQAFP.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+T9pQAFP.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+T9pQAFP.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+T9pQAFP.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+T9pQAFP.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CjRhYGU.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CjRhYGU.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CjRhYGU.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CjRhYGU.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CjRhYGU.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+5NWPOQp.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+5NWPOQp.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+5NWPOQp.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+5NWPOQp.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+5NWPOQp.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+FYijK60.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+FYijK60.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+FYijK60.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+FYijK60.png,0,1,Offensive,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+FYijK60.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CcsU2lQUEAEoeuW.jpg,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CcsU2lQUEAEoeuW.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CcsU2lQUEAEoeuW.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CcsU2lQUEAEoeuW.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+tcXzxyV.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+tcXzxyV.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+tcXzxyV.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+tcXzxyV.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+tcXzxyV.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+u9FeEuE.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+u9FeEuE.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+u9FeEuE.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+u9FeEuE.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+u9FeEuE.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+pgVlfQb.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+pgVlfQb.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+pgVlfQb.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+pgVlfQb.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+pgVlfQb.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+WvnX54P.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+WvnX54P.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+WvnX54P.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+WvnX54P.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+WvnX54P.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+x76JHsa.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+x76JHsa.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+x76JHsa.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+x76JHsa.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+x76JHsa.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+yHg7DkU.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+yHg7DkU.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+yHg7DkU.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+yHg7DkU.png,1,1,Offensive,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+yHg7DkU.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Hf65xSJ.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Hf65xSJ.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Hf65xSJ.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Hf65xSJ.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Hf65xSJ.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+t4xWpee.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+t4xWpee.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+t4xWpee.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+t4xWpee.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+t4xWpee.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+6r16i0p.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+6r16i0p.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+6r16i0p.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+6r16i0p.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+6r16i0p.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+QNB8H2s.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+QNB8H2s.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+QNB8H2s.png,0,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+QNB8H2s.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+QNB8H2s.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+5W8eGmw.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+5W8eGmw.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+5W8eGmw.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+5W8eGmw.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+5W8eGmw.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Nyo6x2Y.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Nyo6x2Y.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Nyo6x2Y.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Nyo6x2Y.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Nyo6x2Y.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+5hN4XOF.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+5hN4XOF.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+5hN4XOF.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+5hN4XOF.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+5hN4XOF.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+nEE5sjy.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+nEE5sjy.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+nEE5sjy.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+nEE5sjy.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+nEE5sjy.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+OH0Nuxb.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+OH0Nuxb.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+OH0Nuxb.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+OH0Nuxb.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+OH0Nuxb.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+hoApJnq.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+hoApJnq.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+hoApJnq.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+hoApJnq.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+hoApJnq.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+M6wyDw8.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+M6wyDw8.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+M6wyDw8.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+M6wyDw8.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+M6wyDw8.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+rklsz23.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+rklsz23.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+rklsz23.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+rklsz23.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+rklsz23.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+43LJZG9.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+43LJZG9.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+43LJZG9.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+43LJZG9.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+43LJZG9.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+mHAg22Y.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+mHAg22Y.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+mHAg22Y.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+mHAg22Y.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+mHAg22Y.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+pEPz8iF.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+pEPz8iF.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+pEPz8iF.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+pEPz8iF.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+pEPz8iF.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+nnEBoVw.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+nnEBoVw.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+nnEBoVw.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+nnEBoVw.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+nnEBoVw.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CaqKlOXWIAAvy8L.jpg,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CaqKlOXWIAAvy8L.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CaqKlOXWIAAvy8L.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CaqKlOXWIAAvy8L.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+hLMgzsp.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+hLMgzsp.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+hLMgzsp.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+hLMgzsp.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+hLMgzsp.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+zvdzU3y.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+zvdzU3y.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+zvdzU3y.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+zvdzU3y.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+zvdzU3y.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CbYe-4SW8AAmvbJ.jpg,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CbYe-4SW8AAmvbJ.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CbYe-4SW8AAmvbJ.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CbYe-4SW8AAmvbJ.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+NwQNeBd.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+NwQNeBd.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+NwQNeBd.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+NwQNeBd.png,1,1,Offensive,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+NwQNeBd.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+mZvaiMI.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+mZvaiMI.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+mZvaiMI.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+mZvaiMI.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+mZvaiMI.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Ktvna1u.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Ktvna1u.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Ktvna1u.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Ktvna1u.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Ktvna1u.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+bnQlLeN.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+bnQlLeN.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+bnQlLeN.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+bnQlLeN.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+bnQlLeN.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CfU-_jqW4AAmTBw.jpg,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CfU-_jqW4AAmTBw.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CfU-_jqW4AAmTBw.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CfU-_jqW4AAmTBw.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CfU-_jqW4AAmTBw.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+JT26Var.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+JT26Var.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+JT26Var.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+JT26Var.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+JT26Var.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+LW5TKwe.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+LW5TKwe.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+LW5TKwe.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+LW5TKwe.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+LW5TKwe.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+krkcbjy.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+krkcbjy.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+krkcbjy.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+krkcbjy.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+krkcbjy.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+AY91zJl.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+AY91zJl.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+AY91zJl.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+AY91zJl.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+AY91zJl.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+8WsB12c.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+8WsB12c.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+8WsB12c.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+8WsB12c.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+8WsB12c.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+5kSMRv3.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+5kSMRv3.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+5kSMRv3.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+5kSMRv3.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+5kSMRv3.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+209BoJK.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+209BoJK.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+209BoJK.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+209BoJK.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+209BoJK.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CfUTJmj.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CfUTJmj.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CfUTJmj.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CfUTJmj.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CfUTJmj.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+53U5Bca.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+53U5Bca.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+53U5Bca.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+53U5Bca.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+53U5Bca.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+pyCWWr7.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+pyCWWr7.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+pyCWWr7.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+pyCWWr7.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+pyCWWr7.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+b3IhU9Z.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+b3IhU9Z.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+b3IhU9Z.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+b3IhU9Z.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+b3IhU9Z.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Lsjt4TJ.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Lsjt4TJ.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Lsjt4TJ.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Lsjt4TJ.png,0,1,Answer 1: offensive.,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Lsjt4TJ.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+xJiXDnY.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+xJiXDnY.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+xJiXDnY.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+xJiXDnY.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+xJiXDnY.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+ykGRBWn.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+ykGRBWn.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+ykGRBWn.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+ykGRBWn.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+ykGRBWn.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+LAPqPzX.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+LAPqPzX.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+LAPqPzX.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+LAPqPzX.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+LAPqPzX.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+yiS7xVy.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+yiS7xVy.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+yiS7xVy.png,1,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+yiS7xVy.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+yiS7xVy.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+WDUgdRk.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+WDUgdRk.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+WDUgdRk.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+WDUgdRk.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+WDUgdRk.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+iOyEYMl.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+iOyEYMl.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+iOyEYMl.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+iOyEYMl.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+iOyEYMl.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+bspb4sM.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+bspb4sM.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+bspb4sM.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+bspb4sM.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+bspb4sM.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Wwe2NdZ.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Wwe2NdZ.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Wwe2NdZ.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Wwe2NdZ.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Wwe2NdZ.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+EsepD5Q.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+EsepD5Q.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+EsepD5Q.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+EsepD5Q.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+EsepD5Q.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+xOFyAk8.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+xOFyAk8.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+xOFyAk8.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+xOFyAk8.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+xOFyAk8.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+s3iOROE.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+s3iOROE.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+s3iOROE.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+s3iOROE.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+s3iOROE.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+whhrfSE.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+whhrfSE.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+whhrfSE.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+whhrfSE.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+whhrfSE.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+WwN5X3R.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+WwN5X3R.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+WwN5X3R.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+WwN5X3R.png,1,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+WwN5X3R.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CW7tNBQU0AIADyq.jpg,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CW7tNBQU0AIADyq.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CW7tNBQU0AIADyq.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CW7tNBQU0AIADyq.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CW7tNBQU0AIADyq.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+otKSntf.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+otKSntf.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+otKSntf.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+otKSntf.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+otKSntf.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+7Q0ReMA.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+7Q0ReMA.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+7Q0ReMA.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+7Q0ReMA.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+7Q0ReMA.png,1,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+9CYSG3P.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+9CYSG3P.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+9CYSG3P.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+9CYSG3P.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+9CYSG3P.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+Ci45dogWEAA2bSb.jpg,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+Ci45dogWEAA2bSb.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+Ci45dogWEAA2bSb.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+Ci45dogWEAA2bSb.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+Ci45dogWEAA2bSb.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+1iLg1U1.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+1iLg1U1.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+1iLg1U1.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+1iLg1U1.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+1iLg1U1.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+JHF6hFI.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+JHF6hFI.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+JHF6hFI.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+JHF6hFI.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+JHF6hFI.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CZrwNVe.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CZrwNVe.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CZrwNVe.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CZrwNVe.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CZrwNVe.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+XMReWCt.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+XMReWCt.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+XMReWCt.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+XMReWCt.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+XMReWCt.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+uUc4OqX.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+uUc4OqX.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+uUc4OqX.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+uUc4OqX.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+uUc4OqX.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+kzNSl6e.png,1,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+kzNSl6e.png,1,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+kzNSl6e.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+kzNSl6e.png,1,1,Offensive,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+kzNSl6e.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+TgSYoWe.png,1,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+TgSYoWe.png,1,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+TgSYoWe.png,1,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+TgSYoWe.png,1,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+TgSYoWe.png,1,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+qq8wzMR.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+qq8wzMR.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+qq8wzMR.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+qq8wzMR.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+qq8wzMR.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+fyAh3I0.png,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+fyAh3I0.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+fyAh3I0.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+fyAh3I0.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+fyAh3I0.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+CMQqhImUkAAKeno.jpg,0,0,No.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+CMQqhImUkAAKeno.jpg,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+CMQqhImUkAAKeno.jpg,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+CMQqhImUkAAKeno.jpg,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+CMQqhImUkAAKeno.jpg,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+tINjUCc.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+tINjUCc.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+tINjUCc.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+tINjUCc.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+tINjUCc.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+eI2N5iQ.png,0,0,0,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+eI2N5iQ.png,0,0,0,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+eI2N5iQ.png,0,0,0,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+eI2N5iQ.png,0,0,0,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+eI2N5iQ.png,0,0,0,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
+8ZOPW62.png,0,1,Yes.,Is this meme offensive? Answer 1 (Yes) or 0 (No).
+8ZOPW62.png,0,1,1,"Classify this content: 1 = Offensive, 0 = Non-offensive."
+8ZOPW62.png,0,1,1,Does this meme contain hateful or inappropriate content? Answer 1 or 0.
+8ZOPW62.png,0,1,1,"Is this meme safe or offensive? Answer 1 for offensive, 0 for safe."
+8ZOPW62.png,0,1,1,Analyze the image and text. Is it offensive? Output strictly 1 or 0.
