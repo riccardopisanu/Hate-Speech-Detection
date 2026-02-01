@@ -35,13 +35,13 @@ mkdir -p logs
 # =========================================================================
 
 # --- OPZIONE 1: MULTIOFF ---
-#echo "Avvio Training: MULTIOFF"
-#python main.py --config configs/multioff.yaml
+echo "Avvio Training: MULTIOFF"
+python main.py --config configs/multioff.yaml
 
 # --- OPZIONE 2: HATEFUL MEMES ---
 #echo "Avvio Training: HATEFUL MEMES"
 #python main.py --config configs/hateful_memes.yaml
 
 # --- OPZIONE 3: MAMI ---
-echo "Avvio Training: MAMI"
-python main.py --config configs/mami.yaml
+#echo "Avvio Training: MAMI"
+#python main.py --config configs/mami.yaml

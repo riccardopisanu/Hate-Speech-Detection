@@ -1,0 +1,25 @@
+#!/bin/bash
+#SBATCH --job-name=LLM_MAMI
+#SBATCH --output=logs/llm_mami_%j.out
+#SBATCH --partition=gpu_a40
+#SBATCH --nodes=1
+#SBATCH --gpus=1
+#SBATCH --time=04:00:00
+#SBATCH --mem=48G
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=riccardopisanu01@gmail.com
+
+source /home/rpisanu/MAMI/MemeCLIP/memeclip_env/bin/activate
+
+# Percorsi
+CSV_IN="final_table_mami.csv"
+# Percorso delle immagini di TEST di MAMI (che abbiamo usato prima)
+IMG_DIR="/home/rpisanu/MAMI/MAMI_DATASET/test_images_clean/test/"
+OUT_DIR="results_llm"
+
+echo "🚀 Avvio InternVL su MAMI (Knowledge Injection)"
+python run_internvl.py \
+  --csv_file "$CSV_IN" \
+  --img_root "$IMG_DIR" \
+  --out_dir "$OUT_DIR" \
+  --dataset_name "MAMI"

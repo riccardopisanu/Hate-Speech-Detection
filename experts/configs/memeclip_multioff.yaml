@@ -5,9 +5,8 @@ unmapped_dim: 1024
 
 data:
   dataset_name: MultiOFF
-  root_dir: /home/rpisanu/MultiOFF/MultiOFF_Dataset/Labelled_Images/
-  
-  # PERCORSI CORRETTI (Aggiunta cartella "Split Dataset")
+  root_dir: /home/rpisanu/MultiOFF/MultiOFF_Dataset/Labelled Images/  
+
   train_file: /home/rpisanu/MultiOFF/MultiOFF_Dataset/Split Dataset/Training_meme_dataset.csv
   val_file: /home/rpisanu/MultiOFF/MultiOFF_Dataset/Split Dataset/Validation_meme_dataset.csv
   test_file: /home/rpisanu/MultiOFF/MultiOFF_Dataset/Split Dataset/Testing_meme_dataset.csv

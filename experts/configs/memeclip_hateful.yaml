@@ -5,7 +5,7 @@ unmapped_dim: 1024
 
 data:
   dataset_name: HatefulMemes
-  root_dir: /home/rpisanu/Hateful/hateful_memes/img/
+  root_dir: /home/rpisanu/Hateful/hateful_memes/data/
   
   train_file: /home/rpisanu/Hateful/hateful_memes/data/train.jsonl
   
