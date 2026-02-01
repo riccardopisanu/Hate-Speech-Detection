@@ -44,7 +44,12 @@ class Custom_Dataset(Dataset):
         # --- CARICAMENTO DATI ---
         try:
             if self.info_file.endswith('.jsonl'):
-                self.df = pd.read_json(self.info_file, lines=True)
+                # Fix per leggere JSONL correttamente linea per linea
+                try:
+                    self.df = pd.read_json(self.info_file, lines=True)
+                except ValueError:
+                    # Fallback per JSON classico
+                    self.df = pd.read_json(self.info_file)
             else:
                 # --- LOGICA SPECIALE PER MAMI ---
                 if self.dataset == 'MAMI':
@@ -68,7 +73,7 @@ class Custom_Dataset(Dataset):
         try:
             _, self.clip_preprocess = clip.load(cfg.model.clip_model, device="cpu", jit=False)
         except:
-            pass 
+            pass
         self.clip_tokenizer = clip.tokenize
 
     def __len__(self):
@@ -83,7 +88,7 @@ class Custom_Dataset(Dataset):
         if 'sentence' in row: text_col = 'sentence'
         elif 'Text Transcription' in row: text_col = 'Text Transcription'
         elif 'violenceText Transcription' in row: text_col = 'violenceText Transcription' # Fix per header rotto
-        
+
         txt = str(row[text_col]) if text_col in row and pd.notna(row[text_col]) else "null"
 
         # 2. RECUPERO NOME FILE IMMAGINE
@@ -93,23 +98,31 @@ class Custom_Dataset(Dataset):
         elif 'file_name' in row: image_fn = str(row['file_name']).strip()
 
         # 3. COSTRUZIONE PERCORSO E CARICAMENTO
+        # Logica migliorata per gestire estensioni sbagliate (MultiOFF) e path corretti (MAMI/Hateful)
+        
+        # Percorso base come scritto nel CSV
         image_path = os.path.join(self.root_folder, image_fn)
 
         image_tensor = None
         try:
+            # Se il file non esiste esattamente come scritto, proviamo le varianti
             if not os.path.exists(image_path):
-                candidates = [
-                    image_path + '.jpg', image_path + '.png', image_path + '.jpeg',
-                    image_path.replace('.jpg', '.png'), image_path.replace('.png', '.jpg')
-                ]
+                # Rimuoviamo l'estensione dal nome file nel CSV (se c'è)
+                base_filename = os.path.splitext(image_fn)[0]
+                
+                # Lista di estensioni possibili da provare
+                extensions_to_try = ['.jpg', '.jpeg', '.png', '.JPG', '.JPEG', '.PNG']
+                
                 found = False
-                for c in candidates:
-                    if os.path.exists(c):
-                        image_path = c
+                for ext in extensions_to_try:
+                    candidate_path = os.path.join(self.root_folder, base_filename + ext)
+                    if os.path.exists(candidate_path):
+                        image_path = candidate_path
                         found = True
                         break
+                
                 if not found:
-                     raise FileNotFoundError(f"File non trovato: {image_path}")
+                     raise FileNotFoundError(f"File non trovato (neanche con estensioni alternative): {image_path}")
 
             image = Image.open(image_path).convert('RGB')
             image_tensor = self.transform(image)
@@ -118,7 +131,7 @@ class Custom_Dataset(Dataset):
             if GLOBAL_ERROR_COUNT < 10:
                 print(f"[IMAGE ERROR] Riga {idx} | Path: {image_path} | Err: {e}", flush=True)
                 GLOBAL_ERROR_COUNT += 1
-            # SAFE MODE
+            # SAFE MODE: Immagine nera
             image_tensor = torch.zeros((3, self.image_size, self.image_size))
 
         # 4. TOKENIZZAZIONE TESTO
