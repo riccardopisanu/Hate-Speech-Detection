@@ -8,34 +8,23 @@ from transformers import AutoProcessor, LlavaNextForConditionalGeneration
 
 # --- CONFIGURAZIONE MODELLO ---
 MODEL_PATH = "/home/rpisanu/models/llava-v1.6-mistral-7b"
+SAVE_EVERY = 50 # Salva ogni 50 immagini
 
-# --- CONFIGURAZIONE DATASET E PROMPT ZERO-SHOT (NO CoT) ---
+# --- CONFIGURAZIONE DATASET ---
 CONFIGS = {
     "MAMI": {
         "base_dir": "/home/rpisanu/MAMI/MAMI_DATASET",
         "file_path": "test.tsv",
         "img_dir": "test_images_clean/test",
         "type": "tsv",
-        "prompts": [
-            "Is this meme misogynistic? Answer 1 (Yes) or 0 (No).",
-            "Does this image and text combination express hate against women? Answer 1 or 0.",
-            "Classify this meme: 1 = misogynous, 0 = not misogynous. Output only the digit.",
-            "Is this content offensive toward women? Answer 1 or 0.",
-            "Look at the meme. Is it sexist? Answer only 1 (Yes) or 0 (No)."
-        ]
+        "prompts": ["Is this meme misogynistic? Answer 1 (Yes) or 0 (No)."]
     },
     "MultiOFF": {
         "base_dir": "/home/rpisanu/MultiOFF/MultiOFF_Dataset",
         "file_path": "Split Dataset/Testing_meme_dataset.csv",
         "img_dir": "Labelled Images",
         "type": "csv",
-        "prompts": [
-            "Is this meme offensive? Answer 1 (Yes) or 0 (No).",
-            "Classify this content: 1 = Offensive, 0 = Non-offensive.",
-            "Does this meme contain hateful or inappropriate content? Answer 1 or 0.",
-            "Is this meme safe or offensive? Answer 1 for offensive, 0 for safe.",
-            "Analyze the image and text. Is it offensive? Output strictly 1 or 0."
-        ]
+        "prompts": ["Is this meme offensive? Answer 1 (Yes) or 0 (No)."]
     },
     "MMHS150K": {
         "base_dir": "/home/rpisanu/MMHS150K",
@@ -46,9 +35,7 @@ CONFIGS = {
         "prompts": [
             "Is this tweet image hateful? Answer 1 (Yes) or 0 (No).",
             "Does this content constitute Hate Speech? Answer 1 or 0.",
-            "Classify this post: 1 = Hate Speech, 0 = Not Hate Speech.",
-            "Is this offensive or racist? Answer 1 (Hate) or 0 (Safe).",
-            "Detect hate speech in this image and text. Output 1 for Hate, 0 for Safe."
+            "Classify this post: 1 = Hate Speech, 0 = Not Hate Speech."
         ]
     },
     "HatefulMemes": {
@@ -56,13 +43,7 @@ CONFIGS = {
         "file_path": "dev.jsonl",
         "img_dir": "img",
         "type": "jsonl",
-        "prompts": [
-            "Is this meme hateful? Answer 1 (Yes) or 0 (No).",
-            "Classify this meme: 1 = Hateful, 0 = Not Hateful.",
-            "Does this meme contain hate speech? Answer 1 or 0.",
-            "Is this content offensive or hateful? Output only the label 1 or 0.",
-            "Is this a hateful meme targeting a protected group? Answer 1 or 0."
-        ]
+        "prompts": ["Is this meme hateful? Answer 1 (Yes) or 0 (No)."]
     }
 }
 
@@ -71,8 +52,7 @@ def find_image_robust(base_img_dir, img_identifier):
     path = os.path.join(base_img_dir, img_identifier)
     if os.path.exists(path): return path
     if "img/" in img_identifier:
-        basename = os.path.basename(img_identifier)
-        path = os.path.join(base_img_dir, basename)
+        path = os.path.join(base_img_dir, os.path.basename(img_identifier))
         if os.path.exists(path): return path
     name_no_ext = os.path.splitext(os.path.basename(img_identifier))[0]
     for ext in [".jpg", ".JPG", ".png", ".PNG", ".jpeg"]:
@@ -82,23 +62,12 @@ def find_image_robust(base_img_dir, img_identifier):
 
 def map_prediction(pred_text: str) -> int:
     s = str(pred_text).lower().strip()
-    
-    # Keyword priority
-    if "not offensive" in s or "non-offensive" in s or "not hateful" in s or "not misogynous" in s: return 0
-    if "offensive" in s or "hateful" in s or "misogynous" in s or "sexist" in s: return 1
-    
-    # LLaVA chat format specific
     if "label: 0" in s: return 0
     if "label: 1" in s: return 1
-
-    # Numeric
     nums = re.findall(r"\b(0|1)\b", s)
     if nums: return int(nums[-1])
-    
-    # Yes/No
     if "yes" in s: return 1
     if "no" in s: return 0
-    
     return -1
 
 # ─────────────── DATA LOADER ───────────────
@@ -122,7 +91,7 @@ def load_dataset_data(name):
         for _, row in df.iterrows():
             if pd.isna(row.get("image_name")): continue
             lbl_str = str(row.get("label", "")).strip().lower()
-            label = 1 if lbl_str == "offensive" else 0
+            label = 1 if lbl_str in ["offensive", "1", "1.0"] else 0
             data_items.append({"image_name": str(row.get("image_name")), "text": str(row.get("sentence")), "label": label})
 
     elif cfg["type"] == "jsonl": # Hateful Memes
@@ -155,38 +124,55 @@ def main():
 
     os.makedirs(args.out_dir, exist_ok=True)
     cfg = CONFIGS[args.dataset]
+    out_csv = os.path.join(args.out_dir, f"results_llava_{args.dataset}.csv")
 
-    # 1. LOAD MODEL (LLaVA-v1.6)
+    # 1. LOAD DATA & SMART RESUME
+    dataset, img_root = load_dataset_data(args.dataset)
+    if args.sample: dataset = dataset[:args.sample]
+    
+    # --- LOGICA DI RESUME ---
+    processed_ids = set()
+    if os.path.exists(out_csv):
+        print(f"🔄 Found existing results file: {out_csv}")
+        try:
+            df_done = pd.read_csv(out_csv)
+            # Raccoglie ID univoci processati
+            processed_ids = set(df_done["id"].astype(str))
+            print(f"⏩ Already processed: {len(processed_ids)} items.")
+        except:
+            print("⚠️ Error reading existing CSV, starting from scratch.")
+    
+    # Filtra il dataset: tieni solo quelli il cui 'image_name' NON è in processed_ids
+    dataset_to_do = [d for d in dataset if d["image_name"] not in processed_ids]
+    print(f"📉 Remaining to process: {len(dataset_to_do)} / {len(dataset)}")
+    
+    if not dataset_to_do:
+        print("🎉 Dataset fully processed!")
+        sys.exit(0)
+
+    # 2. LOAD MODEL (Solo se c'è roba da fare)
     print(f"🚀 Loading LLaVA from {MODEL_PATH}...")
     try:
         processor = AutoProcessor.from_pretrained(MODEL_PATH, local_files_only=True)
-        # Patch pad token
         if processor.tokenizer.pad_token_id is None:
             processor.tokenizer.pad_token_id = processor.tokenizer.eos_token_id
-            
         model = LlavaNextForConditionalGeneration.from_pretrained(
-            MODEL_PATH,
-            torch_dtype=torch.float16,
-            low_cpu_mem_usage=True,
-            local_files_only=True,
-            device_map="auto"
+            MODEL_PATH, torch_dtype=torch.float16, low_cpu_mem_usage=True, local_files_only=True, device_map="auto"
         ).eval()
-        print("✅ LLaVA Loaded.")
     except Exception as e:
         print(f"❌ Error loading model: {e}")
         sys.exit(1)
 
-    # 2. LOAD DATA
-    dataset, img_root = load_dataset_data(args.dataset)
-    if args.sample: dataset = dataset[:args.sample]
-    print(f"📊 Dataset loaded: {len(dataset)} samples. Img Root: {img_root}")
-
     # 3. INFERENCE LOOP
-    results = []
-    metrics = defaultdict(lambda: {"y_true": [], "y_pred": []})
+    buffer = []
+    processed_count = 0
+    start_time = time.time()
     
-    for idx, item in enumerate(dataset):
-        if idx % 50 == 0: print(f"   [{idx}/{len(dataset)}] Processing...")
+    for idx, item in enumerate(dataset_to_do):
+        processed_count += 1
+        if processed_count % 10 == 0: 
+             elapsed = time.time() - start_time
+             print(f"   Processed {processed_count}/{len(dataset_to_do)} (Speed: {processed_count/(elapsed+0.1):.2f} it/s)")
         
         img_path = find_image_robust(img_root, item["image_name"])
         if not img_path: continue
@@ -195,70 +181,43 @@ def main():
             image = Image.open(img_path).convert("RGB")
             
             for p in cfg["prompts"]:
-                # Formato Prompt LLaVA v1.6 (Chat Template standard)
-                # Template: [INST] <image>\nQUESTION [/INST]
-                
-                # Sostituzione placeholder se il prompt è un template
-                # Ma qui i prompt sono secchi, quindi aggiungiamo solo il testo del meme
                 full_text = f"{p}\nMeme Text: '{item['text']}'"
-                
                 final_prompt = f"[INST] <image>\n{full_text} [/INST]"
                 
                 inputs = processor(text=final_prompt, images=image, return_tensors="pt").to(model.device)
                 
                 with torch.no_grad():
                     output = model.generate(
-                        **inputs,
-                        max_new_tokens=50, # Pochi token, ci aspettiamo 1 o 0
-                        do_sample=False,
-                        pad_token_id=processor.tokenizer.pad_token_id
+                        **inputs, max_new_tokens=50, do_sample=False, pad_token_id=processor.tokenizer.pad_token_id
                     )
                 
                 generated_text = processor.decode(output[0], skip_special_tokens=True)
-                
-                if "[/INST]" in generated_text:
-                    response = generated_text.split("[/INST]")[-1].strip()
-                else:
-                    response = generated_text
-
+                response = generated_text.split("[/INST]")[-1].strip() if "[/INST]" in generated_text else generated_text
                 pred = map_prediction(response)
                 
-                results.append({
+                buffer.append({
                     "id": item["image_name"],
                     "true_label": item["label"],
                     "pred": pred,
                     "response": response,
                     "prompt": p
                 })
-                
-                if pred != -1:
-                    metrics[p]["y_true"].append(item["label"])
-                    metrics[p]["y_pred"].append(pred)
-
+        
         except Exception as e:
             print(f"❌ Error {item['image_name']}: {e}")
 
-    # 4. SAVE & METRICS
-    out_csv = os.path.join(args.out_dir, f"results_llava_{args.dataset}.csv")
-    pd.DataFrame(results).to_csv(out_csv, index=False)
-    print(f"✅ Saved results to {out_csv}")
+        # 4. INCREMENTAL SAVE
+        if len(buffer) >= SAVE_EVERY:
+            write_header = not os.path.exists(out_csv)
+            pd.DataFrame(buffer).to_csv(out_csv, mode='a', index=False, header=write_header)
+            print(f"💾 Checkpoint saved ({len(buffer)} items).")
+            buffer = []
 
-    # 5. METRICS PRINT
-    print(f"\n🏆 RESULTS: {args.dataset} (LLaVA Zero-Shot)")
-    print("="*100)
-    print(f"{'PROMPT (First 40 chars)':<40} | {'ACC':<6} | {'F1 MAC':<6} | {'F1 BIN':<6} | {'REC':<6} | {'PREC':<6}")
-    print("-" * 100)
-
-    for p, d in metrics.items():
-        if d["y_pred"]:
-            acc = accuracy_score(d["y_true"], d["y_pred"])
-            p_bin = precision_score(d["y_true"], d["y_pred"], average='binary', zero_division=0)
-            r_bin = recall_score(d["y_true"], d["y_pred"], average='binary', zero_division=0)
-            f1_bin = f1_score(d["y_true"], d["y_pred"], average='binary', zero_division=0)
-            f1_mac = f1_score(d["y_true"], d["y_pred"], average='macro', zero_division=0)
-            
-            print(f"{p[:40]:<40} | {acc:.4f} | {f1_mac:.4f} | {f1_bin:.4f} | {r_bin:.4f} | {p_bin:.4f}")
-    print("="*100 + "\n")
+    # Final Save
+    if buffer:
+        write_header = not os.path.exists(out_csv)
+        pd.DataFrame(buffer).to_csv(out_csv, mode='a', index=False, header=write_header)
+        print(f"✅ Final batch saved.")
 
 if __name__ == "__main__":
     main()
