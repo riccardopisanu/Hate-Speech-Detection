@@ -1,0 +1,47 @@
+// Framework Architecture
+digraph {
+	dpi=300 rankdir=LR size="10,8"
+	node [fontname=Helvetica fontsize=12 shape=box style=filled]
+	node [color="#1565C0" fillcolor="#E3F2FD"]
+	IMG [label="Input Image
+(Meme)"]
+	TXT [label="Input Text
+(Caption/OCR)"]
+	node [color="#EF6C00" fillcolor="#FFF3E0"]
+	subgraph cluster_experts {
+		color=lightgrey label="Expert Models Pool" style=dashed
+		EXP1 [label="Demographic Expert
+(Race/Gender)"]
+		EXP2 [label="Object Detection
+(Scene Objects)"]
+		EXP3 [label="Sentiment Expert
+(Text Tone)"]
+		EXP4 [label="External Knowledge
+(Symbolism)"]
+	}
+	node [color="#2E7D32" fillcolor="#E8F5E9" shape=component]
+	PROMPT [label="Prompt Injection Strategy
+
+1. Simple Context
+2. Chain-of-Thought
+3. Conflict Handling"]
+	node [color="#7B1FA2" fillcolor="#F3E5F5" shape=box3d]
+	LLM [label="Multimodal LLM
+(Reasoning Core)
+
+[Qwen / InternVL / Phi-4]"]
+	node [color="#C62828" fillcolor="#FFEBEE" shape=ellipse]
+	OUT [label="Final Prediction
+(Label + Rationale)"]
+	IMG -> EXP1
+	IMG -> EXP2
+	TXT -> EXP3
+	IMG -> EXP4
+	IMG -> LLM [label=" Visual Context" color=grey style=dashed]
+	EXP1 -> PROMPT [label=" Tags"]
+	EXP2 -> PROMPT
+	EXP3 -> PROMPT
+	EXP4 -> PROMPT
+	PROMPT -> LLM [label=" Enriched Prompt"]
+	LLM -> OUT
+}

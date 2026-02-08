@@ -1,0 +1,91 @@
+import os
+import shutil
+import zipfile
+
+# ==============================================================================
+# 1. LISTA DEI DESIDERI
+# ==============================================================================
+TARGET_IMAGES = [
+    "15210.jpg", "15006.jpg", "15005.jpg", "15524.jpg", "15026.jpg", "15068.jpg",
+    "30579.png", "01967.png", "03197.png", "01796.png", "01726.png",
+    "4q1tono.png", "0N5ZKcH.png", "12XLnzK.png", "5W8eGmw.png"
+]
+# Nota: ho tolto "img/" dai nomi target per facilitare la ricerca pura sul nome file.
+
+# ==============================================================================
+# 2. DOVE CERCARE? (SCAN COMPLETA)
+# ==============================================================================
+# Cercheremo in TUTTE le sottocartelle di questi percorsi
+BASE_SEARCH_DIRS = [
+    "/beegfs-scratch/rpisanu",
+    "/home/rpisanu"
+]
+
+OUTPUT_DIR = "TESI_FINAL_IMAGES"
+ZIP_NAME = "tesi_images.zip"
+
+# ==============================================================================
+# 3. MOTORE DI RICERCA (FORZA BRUTA)
+# ==============================================================================
+if os.path.exists(OUTPUT_DIR):
+    shutil.rmtree(OUTPUT_DIR)
+os.makedirs(OUTPUT_DIR)
+
+print(f"🕵️‍♂️  Avvio scansione profonda in: {BASE_SEARCH_DIRS}")
+print("    (Potrebbe volerci un minuto...)")
+
+found_map = {} # mappa {nome_file: percorso_completo}
+
+# Scansione del filesystem
+for base_dir in BASE_SEARCH_DIRS:
+    if not os.path.exists(base_dir): continue
+    
+    for root, dirs, files in os.walk(base_dir):
+        # Ottimizzazione: salta cartelle inutili o di sistema
+        if ".git" in root or "__pycache__" in root or "venv" in root: continue
+        
+        for file in files:
+            if file in TARGET_IMAGES:
+                full_path = os.path.join(root, file)
+                # Se non l'abbiamo già trovato, salvalo
+                if file not in found_map:
+                    found_map[file] = full_path
+                    print(f"✅ TROVATO: {file} \n   -> in {full_path}")
+
+# ==============================================================================
+# 4. COPIA E ZIP
+# ==============================================================================
+print(f"\n📦 Copia dei file in '{OUTPUT_DIR}'...")
+
+count = 0
+for target in TARGET_IMAGES:
+    # Gestione speciale per i file che potrebbero chiamarsi 'img/30579.png' nel target
+    clean_target = os.path.basename(target)
+    
+    if clean_target in found_map:
+        src = found_map[clean_target]
+        
+        # Prefisso per distinguere i dataset
+        if ".jpg" in clean_target: prefix = "MAMI"
+        elif "img" in src and "hateful" in src.lower(): prefix = "HM"
+        elif "MultiOFF" in src: prefix = "MOFF"
+        else: prefix = "DATA"
+        
+        dst_name = f"{prefix}_{clean_target}"
+        shutil.copy(src, os.path.join(OUTPUT_DIR, dst_name))
+        count += 1
+    else:
+        print(f"❌ MANCANTE: {clean_target}")
+
+print(f"\n📊 Totale raccolti: {count}/{len(TARGET_IMAGES)}")
+
+# ZIP
+print(f"🤐 Creazione archivio {ZIP_NAME}...")
+shutil.make_archive(ZIP_NAME.replace('.zip', ''), 'zip', OUTPUT_DIR)
+full_zip_path = os.path.abspath(ZIP_NAME)
+
+print("\n" + "="*60)
+print("COMMANDO DOWNLOAD (Copia e incolla su Windows):")
+print("="*60)
+print(f'scp -o "ProxyJump cagliero_thesis_students@mp4.polito.it" -o "UserKnownHostsFile=/dev/null" -o "StrictHostKeyChecking=no" rpisanu@hpc-legionlogin.polito.it:{full_zip_path} "C:\\Users\\ricca\\OneDrive\\Desktop\\immagini"')
+print("="*60)

@@ -1,62 +1,71 @@
 from graphviz import Digraph
-import os
 
-# Configurazione del grafico
-dot = Digraph(comment='Framework Architecture', format='png')
-dot.attr(rankdir='LR', size='10,8', dpi='300') # Left to Right, Alta risoluzione
-
-# Stile dei nodi
-dot.attr('node', shape='box', style='filled', fontname='Helvetica', fontsize='12')
+# Configurazione Grafico
+dot = Digraph(comment='Proposed Framework', format='png')
+dot.attr(rankdir='LR', size='12,8', dpi='300', splines='polyline') 
+# Usa 'polyline' per evitare curve strane con tanti collegamenti
+dot.attr('node', shape='box', style='filled', fontname='Helvetica', fontsize='11')
 
 # --- 1. INPUT ---
-dot.attr('node', fillcolor='#E3F2FD', color='#1565C0') # Blu chiaro
-dot.node('IMG', 'Input Image\n(Meme)')
-dot.node('TXT', 'Input Text\n(Caption/OCR)')
+with dot.subgraph(name='cluster_input') as c:
+    c.attr(color='white')
+    c.node('IMG', 'Meme Image\n(I)', fillcolor='#E3F2FD', color='#1565C0', shape='folder')
+    c.node('TXT', 'Meme Text\n(T)', fillcolor='#E3F2FD', color='#1565C0', shape='note')
 
-# --- 2. EXPERTS LAYER ---
-dot.attr('node', fillcolor='#FFF3E0', color='#EF6C00') # Arancione
+# --- 2. EXPERT ENSEMBLE ---
 with dot.subgraph(name='cluster_experts') as c:
-    c.attr(label='Expert Models Pool', color='lightgrey', style='dashed')
-    c.node('EXP1', 'Demographic Expert\n(Race/Gender)')
-    c.node('EXP2', 'Object Detection\n(Scene Objects)')
-    c.node('EXP3', 'Sentiment Expert\n(Text Tone)')
-    c.node('EXP4', 'External Knowledge\n(Symbolism)')
+    c.attr(label='Phase 2: Domain Experts', color='lightgrey', style='dashed', fontname='Helvetica-Bold')
+    
+    # RoBERTa (Solo Testo)
+    c.node('ROBERTA', 'RoBERTa\n(Textual Expert)\n"Safe Anchor"', fillcolor='#FFF3E0', color='#EF6C00')
+    
+    # CLIP+MLP (Multimodale)
+    c.node('CLIP', 'CLIP + MLP\n(Generalist VLM)\n"Explicit Hate"', fillcolor='#FFF3E0', color='#EF6C00')
+    
+    # MemeCLIP (Multimodale)
+    c.node('MEME', 'MemeCLIP\n(Specialist VLM)\n"Implicit/Context"', fillcolor='#FFE0B2', color='#E65100', penwidth='2.0')
 
-# --- 3. INJECTION MECHANISM ---
-dot.attr('node', fillcolor='#E8F5E9', color='#2E7D32', shape='component') # Verde
-dot.node('PROMPT', 'Prompt Injection Strategy\n\n1. Simple Context\n2. Chain-of-Thought\n3. Conflict Handling')
+# --- 3. VOTING & STRATEGIES ---
+with dot.subgraph(name='cluster_strategies') as c:
+    c.attr(label='Phase 3: Knowledge Injection', color='#E8F5E9', style='rounded')
+    c.node('VOTES', 'Expert Voting\n{V_text, V_gen, V_spec}', shape='component', fillcolor='#C8E6C9', color='#2E7D32')
+    c.node('LOGIC', 'Conditional Constraint\n(Strategy C)\n\nIF (Text==Safe) & (Spec==Hate):\nInject "Strict Rule"', 
+           shape='diamond', fillcolor='#A5D6A7', color='#1B5E20', fontsize='10')
 
-# --- 4. MAIN LLM ---
-dot.attr('node', fillcolor='#F3E5F5', color='#7B1FA2', shape='box3d') # Viola
-dot.node('LLM', 'Multimodal LLM\n(Reasoning Core)\n\n[Qwen / InternVL / Phi-4]')
+# --- 4. BACKBONE ---
+dot.node('LLM', 'InternVL 2.5\n(Backbone LLM)', shape='box3d', fillcolor='#F3E5F5', color='#7B1FA2', fontsize='12', fontname='Helvetica-Bold')
 
 # --- 5. OUTPUT ---
-dot.attr('node', fillcolor='#FFEBEE', color='#C62828', shape='ellipse') # Rosso
-dot.node('OUT', 'Final Prediction\n(Label + Rationale)')
+dot.node('OUT', 'Final Prediction\n(0 / 1)', shape='ellipse', fillcolor='#FFEBEE', color='#C62828')
 
-# --- COLLEGAMENTI (EDGES) ---
-# Input verso Esperti
-dot.edge('IMG', 'EXP1')
-dot.edge('IMG', 'EXP2')
-dot.edge('TXT', 'EXP3')
-dot.edge('IMG', 'EXP4')
+# --- COLLEGAMENTI ---
 
-# Input verso LLM (L'LLM vede anche l'immagine originale)
-dot.edge('IMG', 'LLM', color='grey', style='dashed', label=' Visual Context')
+# Il TESTO va a TUTTI gli esperti
+dot.edge('TXT', 'ROBERTA', color='#1565C0')
+dot.edge('TXT', 'CLIP', color='#1565C0')
+dot.edge('TXT', 'MEME', color='#1565C0')
 
-# Esperti verso Prompt Injection
-dot.edge('EXP1', 'PROMPT', label=' Tags')
-dot.edge('EXP2', 'PROMPT')
-dot.edge('EXP3', 'PROMPT')
-dot.edge('EXP4', 'PROMPT')
+# L'IMMAGINE va ai due Visual Experts (e non a RoBERTa)
+dot.edge('IMG', 'CLIP', color='#1565C0')
+dot.edge('IMG', 'MEME', color='#1565C0')
 
-# Injection verso LLM
-dot.edge('PROMPT', 'LLM', label=' Enriched Prompt')
+# Experts -> Voting
+dot.edge('ROBERTA', 'VOTES')
+dot.edge('CLIP', 'VOTES')
+dot.edge('MEME', 'VOTES')
 
-# LLM verso Output
+# Voting -> Logic -> LLM
+dot.edge('VOTES', 'LOGIC', label=' Votes')
+dot.edge('LOGIC', 'LLM', label=' Dynamic Prompt')
+
+# Pass-through dei dati grezzi al LLM
+dot.edge('IMG', 'LLM', color='grey', style='dotted')
+dot.edge('TXT', 'LLM', color='grey', style='dotted')
+
+# Output
 dot.edge('LLM', 'OUT')
 
 # Salvataggio
-output_path = 'framework_schema'
+output_path = 'framework_schema_v2'
 dot.render(output_path, view=False)
-print(f"✅ Schema salvato come {output_path}.png")
+print(f"✅ Schema aggiornato salvato come {output_path}.png")

@@ -1,0 +1,51 @@
+// Proposed Framework
+digraph {
+	dpi=300 rankdir=LR size="12,8" splines=polyline
+	node [fontname=Helvetica fontsize=11 shape=box style=filled]
+	subgraph cluster_input {
+		color=white
+		IMG [label="Meme Image
+(I)" color="#1565C0" fillcolor="#E3F2FD" shape=folder]
+		TXT [label="Meme Text
+(T)" color="#1565C0" fillcolor="#E3F2FD" shape=note]
+	}
+	subgraph cluster_experts {
+		color=lightgrey fontname="Helvetica-Bold" label="Phase 2: Domain Experts" style=dashed
+		ROBERTA [label="RoBERTa
+(Textual Expert)
+\"Safe Anchor\"" color="#EF6C00" fillcolor="#FFF3E0"]
+		CLIP [label="CLIP + MLP
+(Generalist VLM)
+\"Explicit Hate\"" color="#EF6C00" fillcolor="#FFF3E0"]
+		MEME [label="MemeCLIP
+(Specialist VLM)
+\"Implicit/Context\"" color="#E65100" fillcolor="#FFE0B2" penwidth=2.0]
+	}
+	subgraph cluster_strategies {
+		color="#E8F5E9" label="Phase 3: Knowledge Injection" style=rounded
+		VOTES [label="Expert Voting
+{V_text, V_gen, V_spec}" color="#2E7D32" fillcolor="#C8E6C9" shape=component]
+		LOGIC [label="Conditional Constraint
+(Strategy C)
+
+IF (Text==Safe) & (Spec==Hate):
+Inject \"Strict Rule\"" color="#1B5E20" fillcolor="#A5D6A7" fontsize=10 shape=diamond]
+	}
+	LLM [label="InternVL 2.5
+(Backbone LLM)" color="#7B1FA2" fillcolor="#F3E5F5" fontname="Helvetica-Bold" fontsize=12 shape=box3d]
+	OUT [label="Final Prediction
+(0 / 1)" color="#C62828" fillcolor="#FFEBEE" shape=ellipse]
+	TXT -> ROBERTA [color="#1565C0"]
+	TXT -> CLIP [color="#1565C0"]
+	TXT -> MEME [color="#1565C0"]
+	IMG -> CLIP [color="#1565C0"]
+	IMG -> MEME [color="#1565C0"]
+	ROBERTA -> VOTES
+	CLIP -> VOTES
+	MEME -> VOTES
+	VOTES -> LOGIC [label=" Votes"]
+	LOGIC -> LLM [label=" Dynamic Prompt"]
+	IMG -> LLM [color=grey style=dotted]
+	TXT -> LLM [color=grey style=dotted]
+	LLM -> OUT
+}
