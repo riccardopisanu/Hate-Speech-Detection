@@ -1,6 +1,4 @@
-# configs/memeclip_multioff.yaml
 
-# Fix globale per ViT-L/14
 unmapped_dim: 1024
 
 data:
@@ -21,7 +19,6 @@ model:
   name: MemeCLIP
   clip_variant: ViT-L/14
   
-  # Architettura (Fix 1024 incluso)
   unmapped_dim: 1024
   map_dim: 1024
   num_mapping_layers: 1
@@ -29,7 +26,6 @@ model:
   drop_probs: [0.1, 0.4, 0.2]
   ratio: 0.2
   
-  # Classi semantiche per MultiOFF
   class_names: ["non_offensive meme", "offensive meme"]
 
 training:

@@ -1,32 +1,27 @@
-# configs/hateful_memes.yaml
 name: "MemeCLIP_Hateful"
 
 data:
   dataset_name: "HatefulMemes"
-  # Usa il PERCORSO ASSOLUTO (togli il punto iniziale)
   root_dir: "/home/rpisanu/Hateful/hateful_memes/data/"
   
-  # Percorsi assoluti ai file JSONL
   train_file: "/home/rpisanu/Hateful/hateful_memes/data/train.jsonl"
   
   val_file: "/home/rpisanu/Hateful/hateful_memes/data/dev.jsonl" 
   test_file: "/home/rpisanu/Hateful/hateful_memes/data/dev.jsonl"
 
-  # Configurazione Hardware
-  batch_size: 64      # Sulla A40 puoi osare 64 o anche 128
+  batch_size: 64
   num_workers: 4
   image_size: 224
 
 model:
   name: "CLIP"
   clip_model: "ViT-L/14"
-  # Aggiungiamo i parametri per il classificatore
   hidden_dim: 512
   dropout: 0.5
 
 training:
   max_epochs: 15
-  learning_rate: 1e-4 # Consiglio: abbassa il LR per Hateful Memes (è più instabile)
+  learning_rate: 1e-4
   weight_decay: 1e-2
   checkpoint_dir: "./checkpoints/hateful_memes"
   log_dir: "./logs/hateful_memes"

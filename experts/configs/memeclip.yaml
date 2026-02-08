@@ -1,6 +1,4 @@
-# configs/memeclip.yaml
 unmapped_dim: 1024
-# --- SEZIONE DATA (Il posto giusto per il batch size!) ---
 data:
   dataset_name: MAMI
   root_dir: /home/rpisanu/MAMI/MAMI_DATASET/TRAINING/
@@ -10,17 +8,14 @@ data:
   label: misogynous
   num_classes: 2
   
-  # SPOSTATI QUI (Prima erano sotto model ed era sbagliato)
   batch_size: 32
   num_workers: 4
   image_size: 224
 
-# --- SEZIONE MODEL ---
 model:
   name: MemeCLIP
   clip_variant: ViT-L/14
   
-  # Architettura interna
   unmapped_dim: 1024
   map_dim: 1024
   num_mapping_layers: 1
@@ -28,10 +23,8 @@ model:
   drop_probs: [0.1, 0.4, 0.2]
   ratio: 0.2
   
-  # Lista classi (Necessaria per l'inizializzazione)
   class_names: ["non_misogynous meme", "misogynous meme"]
 
-# --- SEZIONE TRAINING ---
 training:
   optimizer: AdamW
   learning_rate: 1.0e-4
