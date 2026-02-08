@@ -8,7 +8,9 @@ import os
 from functools import partial
 import torch.nn.functional as F
 from transformers import AutoTokenizer
+
 torch.set_default_dtype(torch.float32)
+
 
 class Adapter(nn.Module):
     def __init__(self, c_in, reduction=4):
@@ -17,13 +19,14 @@ class Adapter(nn.Module):
             nn.Linear(c_in, c_in // reduction, bias=False),
             nn.ReLU(inplace=True),
             nn.Linear(c_in // reduction, c_in, bias=False),
-            nn.ReLU(inplace=True)
+            nn.ReLU(inplace=True),
         )
 
     def forward(self, x):
         x = self.fc(x)
         return x
-    
+
+
 class Classifier(nn.Module):
     def __init__(self, feat_dim=768, num_classes=None, dtype=None):
         super().__init__()
@@ -36,9 +39,10 @@ class Classifier(nn.Module):
 
     def forward(self, x):
         raise NotImplementedError
-        
+
     def apply_weight(self, weight):
         self.weight.data = weight.clone()
+
 
 class CosineClassifier(Classifier):
     def __init__(self, feat_dim=None, num_classes=None, dtype=None, scale=30, **kwargs):
@@ -53,6 +57,7 @@ class CosineClassifier(Classifier):
 
         return F.linear(x, weight) * self.scale
 
+
 class LinearClassifier(Classifier):
     def __init__(self, feat_dim=None, num_classes=None, dtype=None, **kwargs):
         super().__init__(feat_dim, num_classes, dtype)
@@ -62,16 +67,21 @@ class LinearClassifier(Classifier):
     def forward(self, x):
         return F.linear(x, self.weight, self.bias)
 
+
 class LinearProjection(nn.Module):
     def __init__(self, input_dim, output_dim, num_layers, drop_probs):
         super(LinearProjection, self).__init__()
 
-        map_layers = [nn.Linear(input_dim, output_dim),
-                      nn.Dropout(p=drop_probs[0])]
+        map_layers = [nn.Linear(input_dim, output_dim), nn.Dropout(p=drop_probs[0])]
 
         for _ in range(1, num_layers):
             map_layers.extend(
-                [nn.ReLU(), nn.Linear(output_dim, output_dim), nn.Dropout(p=drop_probs[0])])
+                [
+                    nn.ReLU(),
+                    nn.Linear(output_dim, output_dim),
+                    nn.Dropout(p=drop_probs[0]),
+                ]
+            )
 
         self.proj = nn.Sequential(*map_layers)
 
@@ -80,7 +90,8 @@ class LinearProjection(nn.Module):
 
     def forward(self, x):
         return self.proj(x)
-    
+
+
 class CLIP_Text(nn.Module):
     def __init__(self, clip_model):
         super().__init__()
@@ -92,12 +103,14 @@ class CLIP_Text(nn.Module):
         self.dtype = clip_model.dtype
 
     def forward(self, text):
-        x = self.token_embedding(text).to(self.dtype)  
+        x = self.token_embedding(text).to(self.dtype)
         x = x + self.positional_embedding.type(self.dtype)
-        x = x.permute(1, 0, 2).type(torch.float32)  
+        x = x.permute(1, 0, 2).type(torch.float32)
         x = self.transformer(x)
-        x = x.permute(1, 0, 2)  
+        x = x.permute(1, 0, 2)
         x = self.ln_final(x).to(self.dtype)
-        x = x[torch.arange(x.shape[0]), text.argmax(dim=-1)] @ self.text_projection.to(self.dtype)
+        x = x[torch.arange(x.shape[0]), text.argmax(dim=-1)] @ self.text_projection.to(
+            self.dtype
+        )
 
         return x
