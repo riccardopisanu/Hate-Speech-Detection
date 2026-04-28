@@ -12,19 +12,11 @@
 
 DATASET=$1
 
-if [ -z "$DATASET" ]; then
-  echo "❌ Errore: Specifica il dataset!"
-  exit 1
-fi
 
 source "$HOME/venvs/qwenvl/bin/activate"
 
-# PERCORSO ASSOLUTO PER SICUREZZA
-# Sostituisci /home/rpisanu/tesi_repo se la tua cartella è diversa!
 SCRIPT_PATH="/home/rpisanu/tesi_repo/benchmark/bench_qwen.py"
-# Se non sei sicuro, usa: $(find /home/rpisanu -name bench_qwen.py)
 if [ ! -f "$SCRIPT_PATH" ]; then
-    # Fallback search
     SCRIPT_PATH=$(find /home/rpisanu -name bench_qwen.py | head -n 1)
 fi
 
