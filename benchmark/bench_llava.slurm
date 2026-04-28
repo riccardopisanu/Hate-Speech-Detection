@@ -12,16 +12,11 @@
 
 DATASET=$1
 
-if [ -z "$DATASET" ]; then
-  echo "❌ Errore: Specifica il dataset!"
-  exit 1
-fi
 
 source "$HOME/venvs/llava/bin/activate"
 
-# PERCORSO ASSOLUTO
 SCRIPT_PATH="/home/rpisanu/tesi_repo/benchmark/bench_llava.py"
-# Se il path è diverso, usa: $(find /home/rpisanu -name bench_llava.py)
+
 if [ ! -f "$SCRIPT_PATH" ]; then
     SCRIPT_PATH=$(find /home/rpisanu -name bench_llava.py | head -n 1)
 fi
