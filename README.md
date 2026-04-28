@@ -1,4 +1,4 @@
-# Hate-Speech-Detection
+# Hateful Meme Detection via Large Language Models: A Comparative Analysis.
 
 ## Abstract
 The proliferation of Internet memes has transformed social media into a highly visual landscape, concurrently creating a sophisticated vehicle for multimodal hate speech. 
