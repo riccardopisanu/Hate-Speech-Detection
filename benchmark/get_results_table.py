@@ -9,10 +9,7 @@ OUTPUT_FILE = "final_benchmark_summary.csv"
 
 
 def clean_labels(series):
-    """
-    Pulisce le label: converte a numero e forza tutto ci che non  1 a diventare 0.
-    Gestisce i -1 (errori di parsing) trattandoli come predizioni 'safe' (0).
-    """
+
     s = pd.to_numeric(series, errors="coerce").fillna(0)
     s = s.round().astype(int)
     s = s.apply(lambda x: 1 if x == 1 else 0)
